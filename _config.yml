@@ -3,7 +3,19 @@ prose:
   media: assets/uploads
   metadata:
     _posts:
-      - name: title
+      -
+        name: title
         field:
           element: text
           label: title
+    linked/_posts:
+      -
+        name: title
+        field:
+          element: text
+          label: title
+      -
+        name: ext
+        field:
+          element: text
+          label: URL
