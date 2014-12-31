@@ -1,3 +1,8 @@
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - smart
+    - footnotes
 prose:
   siteurl: http://dev.notated.org
   media: assets/uploads
