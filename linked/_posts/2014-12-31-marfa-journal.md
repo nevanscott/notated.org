@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Marfa Journal
 ext: "http://marfajournal.com/"
 ---
