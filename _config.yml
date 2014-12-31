@@ -3,6 +3,13 @@ redcarpet:
   extensions:
     - smart
     - footnotes
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
 prose:
   siteurl: http://dev.notated.org
   media: assets/uploads

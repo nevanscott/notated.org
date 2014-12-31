@@ -1,5 +1,4 @@
 ---
-layout: post
 title: First Post
 ext: http://example.com
 ---
