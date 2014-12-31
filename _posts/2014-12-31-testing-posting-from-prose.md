@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Testing posting from Prose
 ---
 
