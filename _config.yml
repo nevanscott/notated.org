@@ -1,0 +1,38 @@
+title: notated.org
+tagline: notes on learning, design, tools, & life
+
+permalink: /:title/
+
+pagination:
+  enabled: true
+  permalink: /page/:num/
+  trail:
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
+
+plugins: [jekyll-paginate-v2]
+
+collections:
+  links:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /:year/:month/:title/
+  -
+    scope:
+      path: "_links"
+    values:
+      layout: "post"
+      permalink: /:year/:month/:title/
+
+timezone: Europe/Madrid

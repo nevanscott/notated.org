@@ -1,0 +1,16 @@
+.links .title {
+	font-size: var(--font-size-heading);
+	font-weight: 500;
+}
+.links .title small a {
+	border: none;
+	font-size: var(--font-size-small);
+	position: relative;
+	top: -0.125rem;
+	margin-left: 0.5rem;
+	color: #CCC;
+	font-weight: bold;
+}
+.links .title small a:hover {
+	color: #BBB;
+}

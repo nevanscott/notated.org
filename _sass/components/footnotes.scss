@@ -1,0 +1,27 @@
+.footnotes {
+	font-family: var(--font-sans, sans-serif);
+}
+.footnotes hr {
+	border: none;
+	border-top: 1px solid #DDD;
+	width: 8em;
+	margin: 1.6em 0 0;
+}
+.footnotes ol {
+	list-style: decimal;
+}
+.footnotes ol li {
+	margin-left: 1.6em;
+}
+.footnotes ol li p {
+	margin: .8em 0;
+}
+a[rev=footnote], .post li a[rev=footnote] {
+	border: none;
+	text-decoration: none;
+	font-size: var(--font-size-small);
+	position: relative;
+	margin-left: .5em;
+	color: #CCC;
+	font-weight: bold;
+}

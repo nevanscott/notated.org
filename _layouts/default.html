@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/main.css">
+  </head>
+  <body>
+    <header role="banner">
+      <div class="site-identity">
+        <a href="/" class="site-title">{{ site.title }}</a>
+        <small class="site-tagline">{{ site.tagline }}</small>
+      </div>
+      <nav>
+        <a {%- if page.url == '/index.html' %} class="active" {% endif %} href="/">Blog</a>
+        <a {%- if page.url == '/about/' %} class="active"{% endif %} href="/about/">About</a>
+        <a {%- if page.url == '/projects/' %} class="active"{% endif %} href="/projects/">Projects</a>
+        <a {%- if page.url == '/archive/index.html' %} class="active"{% endif %} href="/archive/">Archive</a>
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+  </body>
+</html>

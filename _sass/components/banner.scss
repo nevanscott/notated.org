@@ -1,0 +1,47 @@
+[role=banner] {
+  font-family: var(--font-sans, sans-serif);
+	text-align: center;
+}
+[role=banner] .site-title {
+  font-family: var(--font-serif, serif);
+  display: block;
+	font-size: var(--font-size-title);
+  font-weight: 500;
+	line-height: 1;
+	margin: 0;
+}
+[role=banner] .site-tagline {
+  display: block;
+	font-size: var(--font-size-small);
+  font-weight: 500;
+  line-height: 1;
+	margin: .25em 0;
+	color: #BBB;
+}
+
+[role=banner] nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: var(--font-size-small);
+  font-weight: 500;
+}
+[role=banner] nav a {
+	border-bottom: 2px solid #EEE;
+	margin: .5em .75em;
+}
+[role=banner] nav a:hover {
+	border-color: #DDD;
+}
+[role=banner] nav a.active {
+	border-color: #000;
+}
+
+@media screen and (min-width: 48em) {
+  [role=banner] {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    text-align: left;
+  }
+}

@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article>
+  {% if page.source %}
+    <h1>
+      <a href="{{ page.source }}">
+        {{- page.title | markdownify -}}
+      </a>
+    </h1>
+  {% else %}
+    <h1>{{ page.title | markdownify }}</h1>
+  {% endif %}
+
+  {{ content }}
+
+</article>
