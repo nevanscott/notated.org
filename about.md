@@ -13,12 +13,9 @@ To be honest, I really just like the idea of having an almost completely pointle
 
 ### Who's writing?
 
-I live in Barcelona where I teach user experience and interaction design.
+[Nevan](https://nevanscott.com) here. I live in Barcelona where I [teach user experience and interaction design](https://uxui.cat).
 
 
 ### Colophon
 
-The type on this site is set in your system's interface font and Georgia. Read more about the type on [my personal site's colophon][colophon].
-
-
-[colophon]: http://nevanscott.com/colophon/
+This site is typeset in [Source Serif](https://adobe-fonts.github.io/source-serif/) and [Public Sans](https://public-sans.digital.gov), and built with [Jekyll](https://jekyllrb.com) served from [Netlify](https://www.netlify.com). The circled "n" mark is set in [Piazzolla](https://piazzolla.huertatipografica.com) designed by Juan Pablo del Peral.
