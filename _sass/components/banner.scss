@@ -2,6 +2,16 @@
   font-family: var(--font-sans, sans-serif);
 	text-align: center;
 }
+
+[role=banner] .site-identity a svg {
+  width: 32px;
+  height: 32px;
+  fill: #222;
+}
+[role=banner] .site-identity a:hover svg {
+  fill: black;
+}
+
 [role=banner] .site-title {
   font-family: var(--font-serif, serif);
   display: block;
@@ -41,7 +51,18 @@
   [role=banner] {
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
     text-align: left;
+  }
+  [role=banner] .site-identity {
+    display: flex;
+    align-items: center;
+  }
+  [role=banner] .site-identity a svg {
+    width: 64px;
+    height: 64px;
+  }
+  [role=banner] .site-name {
+    margin-left: 1.5rem;
   }
 }
