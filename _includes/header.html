@@ -9,7 +9,9 @@
     </div>
   </div>
   <nav>
-    <a {%- if page.url == '/index.html' %} class="active" {% endif %} href="/">Blog</a>
+    <a
+      {%- if page.section == 'blog' or page.collection == 'posts' or page.collection == 'links' %} class="active" {% endif %}
+      href="/">Blog</a>
     <a {%- if page.url == '/about/' %} class="active"{% endif %} href="/about/">About</a>
     <a {%- if page.url == '/projects/' %} class="active"{% endif %} href="/projects/">Projects</a>
     <a {%- if page.url == '/archive/index.html' %} class="active"{% endif %} href="/archive/">Archive</a>
