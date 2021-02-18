@@ -1,0 +1,11 @@
+---
+layout: feed
+permalink: /feed/
+collection: posts
+pagination:
+  enabled: true
+  collection: posts, links
+  per_page: 50
+  sort_reverse: true
+  extension: xml
+---
