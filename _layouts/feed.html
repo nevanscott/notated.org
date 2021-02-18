@@ -8,14 +8,14 @@
   <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ page.url | absolute_url | xml_escape }}</id>
-  <link rel="first" href="{{ paginator.first_page_path | absolute_url | xml_escape }}" type="application/atom+xml" />
+  <link rel="first" href="{{ paginator.first_page_path | absolute_url | xml_escape }}index.xml" type="application/atom+xml" />
   {% if paginator.next_page %}
-    <link rel="next" href="{{ paginator.next_page_path | absolute_url | xml_escape }}" type="application/atom+xml" />
+    <link rel="next" href="{{ paginator.next_page_path | absolute_url | xml_escape }}index.xml" type="application/atom+xml" />
   {% endif %}
   {% if paginator.previous_page %}
-    <link rel="previous" href="{{ paginator.previous_page_path | absolute_url | xml_escape }}" type="application/atom+xml" />
+    <link rel="previous" href="{{ paginator.previous_page_path | absolute_url | xml_escape }}index.xml" type="application/atom+xml" />
   {% endif %}
-  <link rel="last" href="{{ paginator.last_page_path | absolute_url | xml_escape }}" type="application/atom+xml" />
+  <link rel="last" href="{{ paginator.last_page_path | absolute_url | xml_escape }}index.xml" type="application/atom+xml" />
 
   {% assign title = site.title | default: site.name %}
   {% if page.collection != "posts" %}
