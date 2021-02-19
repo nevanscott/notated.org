@@ -7,4 +7,4 @@ Speaking of literacy, I love the design of this "hyperlegible" typeface from the
 
 > What makes it different from traditional typography design is that it focuses on letterform distinction to increase character recognition, ultimately improving readability. We are making it free for anyone to use!
 
-The attention to differentiation the uppercase "B" from the numeral "8" is really striking.
+The attention to differentiating the uppercase "B" from the numeral "8" is really striking.
