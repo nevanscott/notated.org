@@ -5,7 +5,7 @@ source: https://creativemornings.com/talks/lena-alfter
 ---
 Last July, Lena Alfter gave a talk "Typografie für besseres Lesenlernen" at Creative Mornings Berlin about designing for illiteracy.
 
-> As part of her master's thesis, Lena Alfter found that people with reading difficulties don't need special fonts in their learning materials, but better typographic design.\[1]
+> As part of her master's thesis, Lena Alfter found that people with reading difficulties don't need special fonts in their learning materials, but better typographic design.[^1]
 
 [Sebastian Greger has helpfully provided notes in English](https://sebastiangreger.net/2020/08/designing-for-illiteracy) about the talk:
 
