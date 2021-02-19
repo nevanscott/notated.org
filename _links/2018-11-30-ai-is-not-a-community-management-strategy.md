@@ -1,6 +1,6 @@
 ---
 title: "AI is Not a Community Management Strategy"
-date: "2018-11-30T23:39:47+01:00"
+date: 2018-11-30T23:39:47+01:00
 source: "http://powazek.com/posts/3548"
 ---
 

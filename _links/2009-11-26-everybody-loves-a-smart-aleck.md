@@ -1,6 +1,6 @@
 ---
 title: "Everybody Loves A Smart Aleck"
-date: "2009-11-26T03:49:32+01:00"
+date: 2009-11-26T03:49:32+01:00
 source: "http://www.avclub.com/articles/everybody-loves-a-smart-aleck,35321/"
 ---
 

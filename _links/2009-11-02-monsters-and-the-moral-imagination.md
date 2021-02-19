@@ -1,6 +1,6 @@
 ---
 title: "Monsters and the Moral Imagination"
-date: "2009-11-02T13:32:12+01:00"
+date: 2009-11-02T13:32:12+01:00
 source: "http://chronicle.com/article/Monstersthe-Moral/48886/"
 ---
 

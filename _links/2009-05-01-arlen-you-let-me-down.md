@@ -1,6 +1,6 @@
 ---
 title: "Arlen, You Let Me Down"
-date: "2009-05-01T04:10:21+02:00"
+date: 2009-05-01T04:10:21+02:00
 source: "http://www.thedailybeast.com/blogs-and-stories/2009-04-29/arlen-you-let-me-down/full/"
 ---
 

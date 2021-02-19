@@ -1,6 +1,6 @@
 ---
 title: "Khoi Vinh on How His Blog Amplified His Work and Career"
-date: "2019-06-06T19:58:14+02:00"
+date: 2019-06-06T19:58:14+02:00
 source: "https://ownyourcontent.wordpress.com/2019/05/14/khoi-vinh-on-how-his-blog-amplified-his-work-and-career/"
 ---
 

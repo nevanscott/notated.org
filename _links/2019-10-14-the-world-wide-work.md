@@ -1,6 +1,6 @@
 ---
 title: "The World-Wide Work."
-date: "2019-10-14T01:04:16+02:00"
+date: 2019-10-14T01:04:16+02:00
 source: "https://ethanmarcotte.com/wrote/the-world-wide-work/"
 ---
 

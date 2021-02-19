@@ -1,6 +1,6 @@
 ---
 title: "Top Ten Psychology Videos"
-date: "2008-08-11T20:56:34+02:00"
+date: 2008-08-11T20:56:34+02:00
 source: "http://psychcentral.com/blog/archives/2008/07/14/top-ten-psychology-videos/"
 ---
 

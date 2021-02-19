@@ -1,6 +1,6 @@
 ---
 title: "Let Detroit Go Bankrupt"
-date: "2008-11-23T23:13:29+01:00"
+date: 2008-11-23T23:13:29+01:00
 source: "http://www.nytimes.com/2008/11/19/opinion/19romney.html"
 ---
 

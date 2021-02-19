@@ -1,6 +1,6 @@
 ---
 title: "Roger Cheng on the Gap Between Web-based and Desktop Office Software"
-date: "2008-08-12T00:43:22+02:00"
+date: 2008-08-12T00:43:22+02:00
 source: "http://online.wsj.com/article/SB121328898370868357.html"
 ---
 

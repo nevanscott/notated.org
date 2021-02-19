@@ -1,6 +1,6 @@
 ---
 title: "News You Can Lose"
-date: "2008-12-17T00:29:14+01:00"
+date: 2008-12-17T00:29:14+01:00
 source: "http://www.newyorker.com/talk/financial/2008/12/22/081222ta_talk_surowiecki"
 ---
 

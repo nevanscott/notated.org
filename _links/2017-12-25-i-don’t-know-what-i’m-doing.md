@@ -1,6 +1,6 @@
 ---
 title: "I don’t know what I’m doing."
-date: "2017-12-25T01:25:55+01:00"
+date: 2017-12-25T01:25:55+01:00
 source: "https://lynnandtonic.com/thoughts/entries/i-dont-know-what-im-doing/"
 ---
 

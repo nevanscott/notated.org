@@ -1,6 +1,6 @@
 ---
 title: "NCTM and High School Math"
-date: "2017-10-19T22:17:03+02:00"
+date: 2017-10-19T22:17:03+02:00
 source: "http://blog.mrmeyer.com/2017/nctms-bold-and-invigorating-plan-for-high-school-mathematics/"
 ---
 

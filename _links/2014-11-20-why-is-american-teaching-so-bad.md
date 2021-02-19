@@ -1,6 +1,6 @@
 ---
 title: "Why Is American Teaching So Bad?"
-date: "2014-11-20T01:41:12+01:00"
+date: 2014-11-20T01:41:12+01:00
 source: "http://www.nybooks.com/articles/archives/2014/dec/04/why-american-teaching-so-bad/"
 ---
 

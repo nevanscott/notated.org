@@ -1,6 +1,6 @@
 ---
 title: "Correspondence from Alan Kay"
-date: "2018-01-15T23:16:49+01:00"
+date: 2018-01-15T23:16:49+01:00
 source: "http://worrydream.com/2017-12-30-alan/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Why the Math Curriculum Makes No Sense"
-date: "2016-03-25T19:51:18+01:00"
+date: 2016-03-25T19:51:18+01:00
 source: "http://mathwithbaddrawings.com/2016/03/02/why-the-math-curriculum-makes-no-sense/"
 ---
 

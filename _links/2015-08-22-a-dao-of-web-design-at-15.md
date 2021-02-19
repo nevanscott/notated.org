@@ -1,6 +1,6 @@
 ---
 title: "A Dao of Web Design at 15"
-date: "2015-08-22T21:36:57+02:00"
+date: 2015-08-22T21:36:57+02:00
 source: "http://www.webdirections.org/blog/a-dao-of-web-design-at-15/"
 ---
 

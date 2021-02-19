@@ -1,6 +1,6 @@
 ---
 title: "The Hidden Cost of Touchscreens"
-date: "2018-11-30T23:46:01+01:00"
+date: 2018-11-30T23:46:01+01:00
 source: "https://medium.com/@caseorganic/why-do-we-keep-building-cars-with-touchscreens-alt-the-hidden-lives-of-touchscreens-55faf92799bf"
 ---
 

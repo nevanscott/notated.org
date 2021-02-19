@@ -1,6 +1,6 @@
 ---
 title: "Cheney for President"
-date: "2009-05-01T04:50:56+02:00"
+date: 2009-05-01T04:50:56+02:00
 source: "http://www.nytimes.com/2009/04/28/opinion/28douthat.html?_r=1"
 ---
 

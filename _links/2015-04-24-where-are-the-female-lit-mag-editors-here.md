@@ -1,6 +1,6 @@
 ---
 title: "Where Are the Female Lit Mag Editors? Here."
-date: "2015-04-24T23:57:01+02:00"
+date: 2015-04-24T23:57:01+02:00
 source: "http://www.thereviewreview.net/publishing-tips/where-are-female-lit-mag-editors-here"
 ---
 

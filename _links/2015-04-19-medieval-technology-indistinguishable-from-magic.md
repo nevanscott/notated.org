@@ -1,6 +1,6 @@
 ---
 title: "Medieval Technology, Indistinguishable from Magic"
-date: "2015-04-19T13:09:04+02:00"
+date: 2015-04-19T13:09:04+02:00
 source: "http://aeon.co/magazine/technology/medieval-technology-indistinguishable-from-magic/"
 ---
 

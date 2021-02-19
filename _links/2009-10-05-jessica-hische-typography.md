@@ -1,6 +1,6 @@
 ---
 title: "Jessica Hische Typography"
-date: "2009-10-05T14:44:10+02:00"
+date: 2009-10-05T14:44:10+02:00
 source: "http://jhische.com/type.html"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Your App Is Good And You Should Feel Good"
-date: "2014-11-20T01:45:39+01:00"
+date: 2014-11-20T01:45:39+01:00
 source: "http://metalbat.com/feel-good/index.html"
 ---
 

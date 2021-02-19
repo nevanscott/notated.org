@@ -1,6 +1,6 @@
 ---
 title: "Dr. Horrible’s Sing-Along Blog"
-date: "2008-08-21T00:57:05+02:00"
+date: 2008-08-21T00:57:05+02:00
 source: "http://www.hulu.com/watch/28343/dr-horribles-sing-along-blog"
 ---
 

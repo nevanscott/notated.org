@@ -1,6 +1,6 @@
 ---
 title: "Week 13: Put Your Hands Where My Eyes Can See"
-date: "2014-11-25T22:48:57+01:00"
+date: 2014-11-25T22:48:57+01:00
 source: "http://thejosevilson.com/week-13-put-hands-eyes-can-see/"
 ---
 

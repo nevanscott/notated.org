@@ -1,6 +1,6 @@
 ---
 title: "Greatness"
-date: "2009-01-23T02:54:22+01:00"
+date: 2009-01-23T02:54:22+01:00
 source: "http://www.newyorker.com/talk/comment/2009/01/26/090126taco_talk_lemann"
 ---
 

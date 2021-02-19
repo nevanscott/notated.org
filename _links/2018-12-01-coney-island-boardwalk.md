@@ -1,6 +1,6 @@
 ---
 title: "Coney Island Boardwalk"
-date: "2018-12-01T00:00:19+01:00"
+date: 2018-12-01T00:00:19+01:00
 source: "http://nyhistory.tumblr.com/post/175814777404/the-wood-planks-of-the-coney-island-boardwalk-were"
 ---
 

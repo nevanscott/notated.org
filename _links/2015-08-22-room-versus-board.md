@@ -1,6 +1,6 @@
 ---
 title: "Room Versus Board"
-date: "2015-08-22T21:43:34+02:00"
+date: 2015-08-22T21:43:34+02:00
 source: "http://www.theawl.com/2015/07/room-versus-board"
 ---
 

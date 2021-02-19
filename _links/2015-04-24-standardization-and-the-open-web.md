@@ -1,6 +1,6 @@
 ---
 title: "Standardization and the Open Web"
-date: "2015-04-24T23:44:46+02:00"
+date: 2015-04-24T23:44:46+02:00
 source: "http://alistapart.com/article/standardization-and-the-open-web"
 ---
 

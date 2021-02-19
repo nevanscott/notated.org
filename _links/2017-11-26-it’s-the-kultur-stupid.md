@@ -1,6 +1,6 @@
 ---
 title: "It’s the Kultur, Stupid"
-date: "2017-11-26T14:33:51+01:00"
+date: 2017-11-26T14:33:51+01:00
 source: "http://www.nybooks.com/articles/2017/12/07/germany-alt-right-kultur-stupid/"
 ---
 

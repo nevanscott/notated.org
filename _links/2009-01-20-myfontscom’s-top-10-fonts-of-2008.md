@@ -1,6 +1,6 @@
 ---
 title: "MyFonts.com’s Top 10 fonts of 2008"
-date: "2009-01-20T02:30:42+01:00"
+date: 2009-01-20T02:30:42+01:00
 source: "http://www.myfonts.com/newsletters/sp/200901.html"
 ---
 

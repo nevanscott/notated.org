@@ -1,6 +1,6 @@
 ---
 title: "Fox News: Enemy Of Conservatism"
-date: "2009-11-13T16:36:36+01:00"
+date: 2009-11-13T16:36:36+01:00
 source: "http://andrewsullivan.theatlantic.com/the_daily_dish/2009/11/fox-news-enemy-of-conservatism.html"
 draft: true
 ---

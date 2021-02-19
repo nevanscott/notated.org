@@ -1,6 +1,6 @@
 ---
 title: "\"American Homeowner\""
-date: "2014-11-25T22:12:01+01:00"
+date: 2014-11-25T22:12:01+01:00
 ---
 
 I'm on my break between classes right now, so I've been feeling especially reflective, leading me to get this site back up again, catch up some on my reading, lose my train of thought on a couple of other projects, and of course start re-watching all of <cite>Boston Legal</cite>.

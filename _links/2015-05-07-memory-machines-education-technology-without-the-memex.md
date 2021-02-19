@@ -1,6 +1,6 @@
 ---
 title: "Memory Machines: Education Technology Without the Memex"
-date: "2015-05-07T19:27:59+02:00"
+date: 2015-05-07T19:27:59+02:00
 source: "http://hackeducation.com/2015/05/02/memory-machines/"
 ---
 

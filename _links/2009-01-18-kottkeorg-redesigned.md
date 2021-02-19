@@ -1,6 +1,6 @@
 ---
 title: "Kottke.org Redesigned"
-date: "2009-01-18T01:51:46+01:00"
+date: 2009-01-18T01:51:46+01:00
 source: "http://kottke.org/"
 ---
 

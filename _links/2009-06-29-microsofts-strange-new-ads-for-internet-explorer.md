@@ -1,6 +1,6 @@
 ---
 title: "Microsoft's strange new ads for Internet Explorer"
-date: "2009-06-29T23:49:05+02:00"
+date: 2009-06-29T23:49:05+02:00
 source: "http://www.idsgn.org/posts/microsofts-strange-new-ads-for-internet-explorer/"
 ---
 

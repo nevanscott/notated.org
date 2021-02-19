@@ -1,6 +1,6 @@
 ---
 title: "Gay Marriage And The GOP"
-date: "2008-12-05T23:37:44+01:00"
+date: 2008-12-05T23:37:44+01:00
 source: "http://andrewsullivan.theatlantic.com/the_daily_dish/2008/12/gay-marriage-an.html"
 ---
 

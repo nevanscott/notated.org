@@ -1,6 +1,6 @@
 ---
 title: "After Credentials"
-date: "2008-12-19T00:33:53+01:00"
+date: 2008-12-19T00:33:53+01:00
 source: "http://www.paulgraham.com/credentials.html"
 ---
 

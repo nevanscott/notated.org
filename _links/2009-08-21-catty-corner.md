@@ -1,6 +1,6 @@
 ---
 title: "Catty-corner"
-date: "2009-08-21T15:27:38+02:00"
+date: 2009-08-21T15:27:38+02:00
 source: "http://www.dailywritingtips.com/the-post-office-is-kitty-corner-to-the-court-house/"
 ---
 

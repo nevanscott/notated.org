@@ -1,6 +1,6 @@
 ---
 title: "Anti-Oppressive Facilitation Guide"
-date: "2019-06-09T21:42:01+02:00"
+date: 2019-06-09T21:42:01+02:00
 source: "http://aorta.coop/portfolio_page/anti-oppressive-facilitation/"
 ---
 

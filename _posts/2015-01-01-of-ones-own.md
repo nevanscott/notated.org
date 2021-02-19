@@ -1,6 +1,6 @@
 ---
 title: "Of One's Own"
-date: "2015-01-01T18:15:35+01:00"
+date: 2015-01-01T18:15:35+01:00
 ---
 
 *I wrote this yesterday for the [Midnight Breakfast newsletter](http://midnightbreakfast.com/signup/).*

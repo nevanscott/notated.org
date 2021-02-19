@@ -1,6 +1,6 @@
 ---
 title: "Historical Background of Spreadsheets"
-date: "2017-05-23T19:02:29+02:00"
+date: 2017-05-23T19:02:29+02:00
 source: "https://www.cs.umd.edu/class/spring2002/cmsc434-0101/MUIseum/applications/spreadsheethistory2.html"
 ---
 

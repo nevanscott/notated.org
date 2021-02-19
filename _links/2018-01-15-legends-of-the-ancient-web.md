@@ -1,6 +1,6 @@
 ---
 title: "Legends of the Ancient Web"
-date: "2018-01-15T23:21:07+01:00"
+date: 2018-01-15T23:21:07+01:00
 source: "http://idlewords.com/talks/ancient_web.htm"
 ---
 

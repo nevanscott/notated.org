@@ -1,6 +1,6 @@
 ---
 title: "The Internet With A Human Face"
-date: "2014-12-07T01:30:55+01:00"
+date: 2014-12-07T01:30:55+01:00
 source: "http://idlewords.com/bt14.htm"
 ---
 

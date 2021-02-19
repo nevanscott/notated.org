@@ -1,6 +1,6 @@
 ---
 title: "Give Me Something To Read"
-date: "2008-12-03T23:20:40+01:00"
+date: 2008-12-03T23:20:40+01:00
 source: "http://givemesomethingtoread.com/"
 ---
 

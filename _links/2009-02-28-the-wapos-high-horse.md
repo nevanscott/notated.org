@@ -1,6 +1,6 @@
 ---
 title: "The WaPo's High Horse"
-date: "2009-02-28T11:42:05+01:00"
+date: 2009-02-28T11:42:05+01:00
 source: "http://andrewsullivan.theatlantic.com/the_daily_dish/2009/02/the-wapos-high.html"
 ---
 

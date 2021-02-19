@@ -1,6 +1,6 @@
 ---
 title: "Broken Windows"
-date: "2008-12-25T01:13:49+01:00"
+date: 2008-12-25T01:13:49+01:00
 source: "http://www.theatlantic.com/doc/198203/broken-windows"
 ---
 

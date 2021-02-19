@@ -1,6 +1,6 @@
 ---
 title: "The Joy of Less"
-date: "2009-06-24T21:13:36+02:00"
+date: 2009-06-24T21:13:36+02:00
 source: "http://happydays.blogs.nytimes.com/2009/06/07/the-joy-of-less/"
 ---
 

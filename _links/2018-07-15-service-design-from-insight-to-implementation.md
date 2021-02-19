@@ -1,6 +1,6 @@
 ---
 title: "Service Design: From Insight to Implementation"
-date: "2018-07-15T13:30:27+02:00"
+date: 2018-07-15T13:30:27+02:00
 source: "https://rosenfeldmedia.com/books/service-design/"
 ---
 

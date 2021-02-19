@@ -1,6 +1,6 @@
 ---
 title: "Flirting with a personal design system"
-date: "2017-10-27T20:23:22+02:00"
+date: 2017-10-27T20:23:22+02:00
 draft: true
 ---
 

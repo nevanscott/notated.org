@@ -1,6 +1,6 @@
 ---
 title: "In Defense of Design Thinking, Which Is Terrible"
-date: "2018-06-16T16:22:26+02:00"
+date: 2018-06-16T16:22:26+02:00
 source: "https://www.subtraction.com/2018/04/02/in-defense-of-design-thinking-which-is-terrible/"
 ---
 

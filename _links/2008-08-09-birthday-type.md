@@ -1,6 +1,6 @@
 ---
 title: "Birthday Type"
-date: "2008-08-09T20:53:53+02:00"
+date: 2008-08-09T20:53:53+02:00
 source: "http://ilovetypography.com/2008/08/04/sunday-type-birthday-type/"
 ---
 

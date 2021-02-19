@@ -1,6 +1,6 @@
 ---
 title: "Parable of the Polygons"
-date: "2015-01-11T16:46:57+01:00"
+date: 2015-01-11T16:46:57+01:00
 source: "http://ncase.me/polygons/"
 ---
 

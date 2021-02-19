@@ -1,6 +1,6 @@
 ---
 title: "Understanding by Design"
-date: "2016-08-31T21:53:15+02:00"
+date: 2016-08-31T21:53:15+02:00
 source: "http://www.indiebound.org/book/9781416600350"
 ---
 

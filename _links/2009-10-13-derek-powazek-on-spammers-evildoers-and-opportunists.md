@@ -1,6 +1,6 @@
 ---
 title: "Derek Powazek on \"Spammers, Evildoers, and Opportunists\""
-date: "2009-10-13T03:25:19+02:00"
+date: 2009-10-13T03:25:19+02:00
 source: "http://powazek.com/posts/2090"
 ---
 

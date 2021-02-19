@@ -1,6 +1,6 @@
 ---
 title: "Ze Frank’s Voice Drawing"
-date: "2009-01-26T03:06:32+01:00"
+date: 2009-01-26T03:06:32+01:00
 source: "http://www.zefrank.com/zesblog/archives/2009/01/want_to_try_som.html"
 ---
 

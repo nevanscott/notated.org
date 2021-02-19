@@ -1,6 +1,6 @@
 ---
 title: "Male and female brains are hardwired differently"
-date: "2009-07-19T05:58:07+02:00"
+date: 2009-07-19T05:58:07+02:00
 source: "http://hivelogic.com/articles/view/boys-and-girls-brains-are-hardwired-differently"
 ---
 

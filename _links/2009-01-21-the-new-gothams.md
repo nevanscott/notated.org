@@ -1,6 +1,6 @@
 ---
 title: "The New Gothams"
-date: "2009-01-21T02:34:58+01:00"
+date: 2009-01-21T02:34:58+01:00
 source: "http://www.typography.com/ask/showBlog.php?blogID=165"
 ---
 

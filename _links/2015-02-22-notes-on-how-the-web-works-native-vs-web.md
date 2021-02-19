@@ -1,6 +1,6 @@
 ---
 title: "Notes on How the Web Works & Native vs. Web"
-date: "2015-02-22T00:04:39+01:00"
+date: 2015-02-22T00:04:39+01:00
 source: "http://melbityux.tumblr.com/post/108650968029/how-the-web-works-native-vs-web"
 ---
 

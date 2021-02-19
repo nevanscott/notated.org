@@ -1,6 +1,6 @@
 ---
 title: "Progress Report"
-date: "2015-02-02T19:50:33+01:00"
+date: 2015-02-02T19:50:33+01:00
 draft: true
 ---
 

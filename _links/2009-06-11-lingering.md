@@ -1,6 +1,6 @@
 ---
 title: "Lingering"
-date: "2009-06-11T14:58:21+02:00"
+date: 2009-06-11T14:58:21+02:00
 source: "http://www.nplusonemag.com/lingering"
 ---
 

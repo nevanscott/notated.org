@@ -1,6 +1,6 @@
 ---
 title: "How William Shatner Changed the World"
-date: "2009-01-23T02:52:59+01:00"
+date: 2009-01-23T02:52:59+01:00
 source: "http://www.youtube.com/watch?v=cGyQVO62QM0"
 ---
 

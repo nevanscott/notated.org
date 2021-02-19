@@ -1,6 +1,6 @@
 ---
 title: "On the Origin of Species: The Preservation of Favoured Traces"
-date: "2009-09-14T01:59:32+02:00"
+date: 2009-09-14T01:59:32+02:00
 source: "http://www.benfry.com/traces/"
 ---
 

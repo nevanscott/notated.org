@@ -1,6 +1,6 @@
 ---
 title: "A Giant Leap into the Unknown"
-date: "2017-11-26T14:19:31+01:00"
+date: 2017-11-26T14:19:31+01:00
 source: "https://mathybeagle.com/2017/11/21/a-giant-leap-into-the-unknown/"
 ---
 

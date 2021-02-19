@@ -1,6 +1,6 @@
 ---
 title: "Tools don’t solve the web’s problems, they ARE the problem"
-date: "2015-05-16T00:46:47+02:00"
+date: 2015-05-16T00:46:47+02:00
 source: "http://www.quirksmode.org/blog/archives/2015/05/tools_dont_solv.html"
 ---
 

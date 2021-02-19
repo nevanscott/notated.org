@@ -1,6 +1,6 @@
 ---
 title: "Not Everyone \"Got\" It"
-date: "2009-08-21T23:07:19+02:00"
+date: 2009-08-21T23:07:19+02:00
 source: "http://www.themorningnews.org/archives/spoofs_satire/not_everyone_got_it.php"
 ---
 

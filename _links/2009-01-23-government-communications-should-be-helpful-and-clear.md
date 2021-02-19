@@ -1,6 +1,6 @@
 ---
 title: "Government communications should be helpful and clear"
-date: "2009-01-23T02:54:12+01:00"
+date: 2009-01-23T02:54:12+01:00
 source: "http://citizensbriefingbook.change.gov/ideas/viewIdea.apexp?id=0878000000057Ar"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Africa's Lost Kingdoms"
-date: "2019-06-09T21:32:27+02:00"
+date: 2019-06-09T21:32:27+02:00
 source: "https://www.nybooks.com/articles/2019/06/27/medieval-africa-lost-kingdoms/"
 ---
 

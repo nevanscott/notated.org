@@ -1,6 +1,6 @@
 ---
 title: "Front-end development is not a problem to be solved"
-date: "2018-12-03T21:40:58+01:00"
+date: 2018-12-03T21:40:58+01:00
 source: "https://css-tricks.com/front-end-development-is-not-a-problem-to-be-solved/"
 ---
 

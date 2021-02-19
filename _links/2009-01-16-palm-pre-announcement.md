@@ -1,6 +1,6 @@
 ---
 title: "Palm Pre Announcement"
-date: "2009-01-16T01:38:54+01:00"
+date: 2009-01-16T01:38:54+01:00
 source: "http://www.palm.com/us/products/phones/pre/palm-pre-ces.html"
 ---
 

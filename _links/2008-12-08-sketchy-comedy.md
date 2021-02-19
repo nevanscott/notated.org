@@ -1,6 +1,6 @@
 ---
 title: "Sketchy Comedy"
-date: "2008-12-08T23:50:28+01:00"
+date: 2008-12-08T23:50:28+01:00
 source: "http://www.newyorker.com/arts/critics/television/2008/12/08/081208crte_television_franklin"
 ---
 

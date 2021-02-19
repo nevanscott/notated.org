@@ -1,6 +1,6 @@
 ---
 title: "The Monsters of “Where The Wild Things Are”"
-date: "2009-01-17T01:47:08+01:00"
+date: 2009-01-17T01:47:08+01:00
 source: "http://www.slashfilm.com/2009/01/16/sneak-peek-the-monsters-of-where-the-wild-things-are/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "History in the Making"
-date: "2008-12-05T23:32:28+01:00"
+date: 2008-12-05T23:32:28+01:00
 source: "http://www.newyorker.com/arts/critics/cinema/2008/12/08/081208crci_cinema_denby"
 ---
 

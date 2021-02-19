@@ -1,6 +1,6 @@
 ---
 title: "Incognito Browsing"
-date: "2009-11-23T03:52:23+01:00"
+date: 2009-11-23T03:52:23+01:00
 source: "http://www.google.com/support/chrome/bin/answer.py?answer=95464&hl=en"
 ---
 

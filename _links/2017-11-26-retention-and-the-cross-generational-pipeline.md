@@ -1,6 +1,6 @@
 ---
 title: "Retention and the Cross-Generational Pipeline"
-date: "2017-11-26T14:13:48+01:00"
+date: 2017-11-26T14:13:48+01:00
 source: "https://kateheddleston.com/blog/retention-and-the-crossgenerational-pipeline"
 ---
 

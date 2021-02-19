@@ -1,6 +1,6 @@
 ---
 title: "SQL Murder Mystery"
-date: "2019-10-09T22:04:10+02:00"
+date: 2019-10-09T22:04:10+02:00
 source: "https://github.com/NUKnightLab/sql-mysteries"
 ---
 

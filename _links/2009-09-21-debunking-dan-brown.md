@@ -1,6 +1,6 @@
 ---
 title: "Debunking Dan Brown"
-date: "2009-09-21T11:22:08+02:00"
+date: 2009-09-21T11:22:08+02:00
 source: "http://www.thedailybeast.com/blogs-and-stories/2009-09-20/debunking-dan-brown/"
 ---
 

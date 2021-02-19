@@ -1,6 +1,6 @@
 ---
 title: "Takeaways on Teaching Type"
-date: "2017-05-23T18:45:20+02:00"
+date: 2017-05-23T18:45:20+02:00
 source: "http://www.alphabettes.org/takeaways-on-teaching-type/"
 ---
 

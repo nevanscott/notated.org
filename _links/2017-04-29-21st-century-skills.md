@@ -1,6 +1,6 @@
 ---
 title: "21st Century Skills"
-date: "2017-04-29T13:47:19+02:00"
+date: 2017-04-29T13:47:19+02:00
 source: "https://fivetwelvethirteen.wordpress.com/2017/04/22/21st-century-skills/"
 ---
 

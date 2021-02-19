@@ -1,6 +1,6 @@
 ---
 title: "The LMS and the End of Information Literacy"
-date: "2017-04-20T15:43:52+02:00"
+date: 2017-04-20T15:43:52+02:00
 source: "http://lisahistory.net/wordpress/2016/09/the-lms-and-the-end-of-information-literacy/"
 ---
 

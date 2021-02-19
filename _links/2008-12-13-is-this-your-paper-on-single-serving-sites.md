@@ -1,6 +1,6 @@
 ---
 title: "Is This Your Paper On Single Serving Sites?"
-date: "2008-12-13T00:15:24+01:00"
+date: 2008-12-13T00:15:24+01:00
 source: "http://isthisyourpaperonsingleservingsites.com/"
 ---
 

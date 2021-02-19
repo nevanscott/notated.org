@@ -1,6 +1,6 @@
 ---
 title: "I Can Text You A Pile of Poo, But I Can't Write My Name"
-date: "2015-04-19T12:44:13+02:00"
+date: 2015-04-19T12:44:13+02:00
 source: "https://modelviewculture.com/pieces/i-can-text-you-a-pile-of-poo-but-i-cant-write-my-name"
 ---
 

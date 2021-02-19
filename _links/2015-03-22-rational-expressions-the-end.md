@@ -1,6 +1,6 @@
 ---
 title: "Rational Expressions: The End!"
-date: "2015-03-22T00:49:41+01:00"
+date: 2015-03-22T00:49:41+01:00
 source: "http://rationalexpressions.blogspot.com/2015/03/the-end.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ratexp+%28Rational+Expressions%29"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "When It Comes to Student Satisfaction, Faculty Matter Most"
-date: "2017-05-03T22:51:33+02:00"
+date: 2017-05-03T22:51:33+02:00
 source: "https://fredrikdeboer.com/2017/04/27/study-of-the-week-when-it-comes-to-student-satisfaction-faculty-matter-most/"
 ---
 

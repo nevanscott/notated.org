@@ -1,6 +1,6 @@
 ---
 title: "TypeCulture Academic Resource"
-date: "2008-08-05T20:47:02+02:00"
+date: 2008-08-05T20:47:02+02:00
 source: "http://www.typeculture.com/academic_resource/articles_essays/pdfs/tc_article_12.pdf"
 ---
 

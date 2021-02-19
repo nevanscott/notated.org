@@ -1,6 +1,6 @@
 ---
 title: "Comestible"
-date: "2008-08-05T20:42:46+02:00"
+date: 2008-08-05T20:42:46+02:00
 source: "http://ninjawords.com/comestible/"
 ---
 

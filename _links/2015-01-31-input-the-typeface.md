@@ -1,6 +1,6 @@
 ---
 title: "Input (the typeface)"
-date: "2015-01-31T22:57:55+01:00"
+date: 2015-01-31T22:57:55+01:00
 source: "http://input.fontbureau.com/"
 ---
 

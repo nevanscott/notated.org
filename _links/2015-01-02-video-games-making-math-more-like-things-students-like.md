@@ -1,6 +1,6 @@
 ---
 title: "Video Games & Making Math More Like Things Students Like"
-date: "2015-01-02T00:44:44+01:00"
+date: 2015-01-02T00:44:44+01:00
 source: "http://blog.mrmeyer.com/2014/video-games-making-math-more-like-things-students-like/"
 ---
 

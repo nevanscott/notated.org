@@ -1,6 +1,6 @@
 ---
 title: "“The Noises Rest”"
-date: "2009-01-17T01:45:47+01:00"
+date: 2009-01-17T01:45:47+01:00
 source: "http://vimeo.com/2748889"
 ---
 

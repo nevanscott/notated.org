@@ -1,6 +1,6 @@
 ---
 title: "Eloquent JavaScript, 3rd Edition"
-date: "2018-04-06T19:58:15+02:00"
+date: 2018-04-06T19:58:15+02:00
 source: "http://eloquentjavascript.net/"
 ---
 

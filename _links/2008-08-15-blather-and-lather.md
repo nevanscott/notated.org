@@ -1,6 +1,6 @@
 ---
 title: "Blather and Lather"
-date: "2008-08-15T00:49:32+02:00"
+date: 2008-08-15T00:49:32+02:00
 source: "http://ninjawords.com/lather,blather"
 ---
 

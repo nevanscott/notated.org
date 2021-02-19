@@ -1,6 +1,6 @@
 ---
 title: "The Moment"
-date: "2008-12-04T23:28:39+01:00"
+date: 2008-12-04T23:28:39+01:00
 source: "http://themoment.blogs.nytimes.com/"
 ---
 

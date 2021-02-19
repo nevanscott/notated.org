@@ -1,6 +1,6 @@
 ---
 title: "How to take great notes"
-date: "2017-05-03T22:40:49+02:00"
+date: 2017-05-03T22:40:49+02:00
 source: "https://about.futurelearn.com/blog/learning/how-to-take-great-notes/"
 ---
 

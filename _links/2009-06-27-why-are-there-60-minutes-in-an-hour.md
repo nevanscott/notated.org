@@ -1,6 +1,6 @@
 ---
 title: "Why are There 60 Minutes in an Hour?"
-date: "2009-06-27T02:23:27+02:00"
+date: 2009-06-27T02:23:27+02:00
 source: "http://scienceray.com/mathematics/applied-mathematics/why-are-there-60-minutes-in-an-hour/"
 ---
 

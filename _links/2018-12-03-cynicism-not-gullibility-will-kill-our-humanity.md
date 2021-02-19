@@ -1,6 +1,6 @@
 ---
 title: "Cynicism, Not Gullibility, Will Kill Our Humanity"
-date: "2018-12-03T21:43:26+01:00"
+date: 2018-12-03T21:43:26+01:00
 source: "https://hapgood.us/2018/11/27/cynicism-not-gullibility-will-kill-our-humanity/"
 ---
 

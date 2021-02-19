@@ -1,6 +1,6 @@
 ---
 title: "Dan Rather’s Lawsuit Against CBS"
-date: "2008-12-29T01:21:05+01:00"
+date: 2008-12-29T01:21:05+01:00
 source: "http://www.guardian.co.uk/world/2008/dec/28/dan-rather-cbs-lawsuit-bush"
 ---
 

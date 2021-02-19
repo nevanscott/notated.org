@@ -1,6 +1,6 @@
 ---
 title: "The Black Diamond"
-date: "2008-12-03T23:17:00+01:00"
+date: 2008-12-03T23:17:00+01:00
 source: "http://www.flickr.com/photos/felixgein/141911266/"
 ---
 

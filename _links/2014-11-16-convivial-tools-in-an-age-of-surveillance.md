@@ -1,6 +1,6 @@
 ---
 title: "Convivial Tools in an Age of Surveillance"
-date: "2014-11-16T20:28:51+01:00"
+date: 2014-11-16T20:28:51+01:00
 source: "http://www.hackeducation.com/2014/11/13/convivial-tools-in-an-age-of-surveillance/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Black & White Clock"
-date: "2009-07-15T23:10:25+02:00"
+date: 2009-07-15T23:10:25+02:00
 source: "http://www.kibardindesign.com/special-projects/concept/black-and-white-clock.aspx"
 ---
 

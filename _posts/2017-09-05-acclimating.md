@@ -1,6 +1,6 @@
 ---
 title: "Acclimating"
-date: "2017-09-05T02:30:00+02:00"
+date: 2017-09-05T02:30:00+02:00
 ---
 
 A few months ago, I left my job and moved to Berlin. This has brought a lot of changes in a short period of time. I have a few advantages: I studied German in school, my girlfriend moved here with me, and my siblings and parents are already used to me living far away. So far, I'm learning a lot, but it's definitely taking some time to adjust.

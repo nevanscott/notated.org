@@ -1,6 +1,6 @@
 ---
 title: "The Wrestler"
-date: "2008-11-22T23:12:33+01:00"
+date: 2008-11-22T23:12:33+01:00
 source: "http://www.apple.com/trailers/fox_searchlight/thewrestler/"
 ---
 

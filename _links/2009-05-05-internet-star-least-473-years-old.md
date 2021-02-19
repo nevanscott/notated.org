@@ -1,6 +1,6 @@
 ---
 title: "Internet Star @ Least 473 Years Old"
-date: "2009-05-05T04:13:00+02:00"
+date: 2009-05-05T04:13:00+02:00
 source: "http://thelede.blogs.nytimes.com/2009/05/04/internet-star-least-473-years-old/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Weasel, Twelve Monkeys And The Shrub"
-date: "2008-10-22T23:00:39+02:00"
+date: 2008-10-22T23:00:39+02:00
 source: "http://www.rollingstone.com/politics/story/18420304/the_weasel_twelve_monkeys_and_the_shrub"
 ---
 

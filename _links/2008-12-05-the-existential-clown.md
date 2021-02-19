@@ -1,6 +1,6 @@
 ---
 title: "The Existential Clown"
-date: "2008-12-05T23:30:23+01:00"
+date: 2008-12-05T23:30:23+01:00
 source: "http://www.theatlantic.com/doc/200812/jim-carrey"
 ---
 

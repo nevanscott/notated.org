@@ -1,6 +1,6 @@
 ---
 title: "Richardson Out"
-date: "2009-01-06T01:29:45+01:00"
+date: 2009-01-06T01:29:45+01:00
 source: "http://www.nytimes.com/2009/01/05/us/politics/05richardson.html"
 ---
 

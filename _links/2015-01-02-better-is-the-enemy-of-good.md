@@ -1,6 +1,6 @@
 ---
 title: "“Better” is the enemy of “good”"
-date: "2015-01-02T19:31:10+01:00"
+date: 2015-01-02T19:31:10+01:00
 source: "http://www.cwob.com/oldindex.html"
 ---
 

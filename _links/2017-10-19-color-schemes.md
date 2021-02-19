@@ -1,6 +1,6 @@
 ---
 title: "Color schemes"
-date: "2017-10-19T22:24:27+02:00"
+date: 2017-10-19T22:24:27+02:00
 source: "https://programmingdesignsystems.com/color/color-schemes/"
 ---
 

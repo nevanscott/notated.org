@@ -1,6 +1,6 @@
 ---
 title: "Spelling Bee"
-date: "2019-11-27T00:57:44+01:00"
+date: 2019-11-27T00:57:44+01:00
 source: "https://www.nytimes.com/puzzles/spelling-bee"
 ---
 

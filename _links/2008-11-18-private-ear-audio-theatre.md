@@ -1,6 +1,6 @@
 ---
 title: "Private Ear Audio Theatre"
-date: "2008-11-18T23:11:54+01:00"
+date: 2008-11-18T23:11:54+01:00
 source: "http://privateear.org/"
 ---
 

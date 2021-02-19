@@ -1,6 +1,6 @@
 ---
 title: "Car Genetic Algorithm"
-date: "2008-12-08T23:56:26+01:00"
+date: 2008-12-08T23:56:26+01:00
 source: "http://www.wreck.devisland.net/ga/"
 ---
 

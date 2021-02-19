@@ -1,6 +1,6 @@
 ---
 title: "A Boy’s Life"
-date: "2008-10-21T22:58:06+02:00"
+date: 2008-10-21T22:58:06+02:00
 source: "http://www.theatlantic.com/doc/200811/transgender-children"
 ---
 

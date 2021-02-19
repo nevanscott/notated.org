@@ -1,6 +1,6 @@
 ---
 title: "How To Scroll"
-date: "2014-11-28T17:16:40+01:00"
+date: 2014-11-28T17:16:40+01:00
 source: "http://bost.ocks.org/mike/scroll/"
 ---
 

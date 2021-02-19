@@ -1,6 +1,6 @@
 ---
 title: "Enhancements to Georgia & Verdana Typeface Families Announced"
-date: "2009-09-11T03:59:57+02:00"
+date: 2009-09-11T03:59:57+02:00
 source: "http://www.ascendercorp.com/pr/2009-09-08/"
 ---
 

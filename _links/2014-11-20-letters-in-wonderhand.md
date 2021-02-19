@@ -1,6 +1,6 @@
 ---
 title: "Letters in Wonderhand"
-date: "2014-11-20T02:02:36+01:00"
+date: 2014-11-20T02:02:36+01:00
 source: "http://ilovetypography.com/2014/11/18/letters-in-wonderhand/"
 ---
 

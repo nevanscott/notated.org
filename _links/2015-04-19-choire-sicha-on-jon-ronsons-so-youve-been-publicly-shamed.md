@@ -1,6 +1,6 @@
 ---
 title: "Choire Sicha on Jon Ronson's 'So You've Been Publicly Shamed'"
-date: "2015-04-19T09:33:17+02:00"
+date: 2015-04-19T09:33:17+02:00
 source: "http://www.nytimes.com/2015/04/19/books/review/jon-ronsons-so-youve-been-publicly-shamed.html"
 ---
 

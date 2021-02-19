@@ -1,6 +1,6 @@
 ---
 title: "RFC 2397 - The \"data\" URL scheme"
-date: "2014-11-26T23:46:55+01:00"
+date: 2014-11-26T23:46:55+01:00
 source: "https://tools.ietf.org/html/rfc2397"
 ---
 

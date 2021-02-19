@@ -1,6 +1,6 @@
 ---
 title: "McCain: Obama’s newest advisor?"
-date: "2009-01-23T02:49:17+01:00"
+date: 2009-01-23T02:49:17+01:00
 source: "http://www.kottke.org/09/01/mccain-obamas-newest-advisor"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Gridr Buildrrr"
-date: "2009-01-20T02:29:40+01:00"
+date: 2009-01-20T02:29:40+01:00
 source: "http://gridr.atomeye.com/"
 ---
 

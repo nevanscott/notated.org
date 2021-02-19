@@ -1,6 +1,6 @@
 ---
 title: "Putting Thought Into Things"
-date: "2014-11-21T11:56:16+01:00"
+date: 2014-11-21T11:56:16+01:00
 source: "https://ia.net/blog/putting-thought-into-things/"
 ---
 

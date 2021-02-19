@@ -1,6 +1,6 @@
 ---
 title: "Charlie Owen on React"
-date: "2019-10-13T11:31:00+02:00"
+date: 2019-10-13T11:31:00+02:00
 source: "https://www.sonniesedge.net/posts/react/"
 ---
 

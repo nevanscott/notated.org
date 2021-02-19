@@ -1,6 +1,6 @@
 ---
 title: "Typographica's Favorite Typefaces of 2014"
-date: "2015-03-22T00:34:21+01:00"
+date: 2015-03-22T00:34:21+01:00
 source: "http://typographica.org/features/our-favorite-typefaces-of-2014/"
 ---
 

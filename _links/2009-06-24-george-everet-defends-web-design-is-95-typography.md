@@ -1,6 +1,6 @@
 ---
 title: "George Everet defends \"Web Design is 95% Typography\""
-date: "2009-06-24T04:43:37+02:00"
+date: 2009-06-24T04:43:37+02:00
 source: "http://george-everet.blogspot.com/2006/11/web-design-is-95-typography-no-really.html"
 ---
 

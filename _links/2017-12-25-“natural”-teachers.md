@@ -1,6 +1,6 @@
 ---
 title: "“Natural” Teachers"
-date: "2017-12-25T01:17:29+01:00"
+date: 2017-12-25T01:17:29+01:00
 source: "https://fivetwelvethirteen.wordpress.com/2017/12/12/natural-teachers/"
 ---
 

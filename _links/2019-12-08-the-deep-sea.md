@@ -1,6 +1,6 @@
 ---
 title: "The Deep Sea"
-date: "2019-12-08T11:39:10+01:00"
+date: 2019-12-08T11:39:10+01:00
 source: "https://neal.fun/deep-sea/"
 ---
 

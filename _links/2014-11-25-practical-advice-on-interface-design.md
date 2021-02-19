@@ -1,6 +1,6 @@
 ---
 title: "Practical Advice on Interface Design"
-date: "2014-11-25T22:32:02+01:00"
+date: 2014-11-25T22:32:02+01:00
 source: "https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda"
 ---
 

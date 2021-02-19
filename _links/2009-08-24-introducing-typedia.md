@@ -1,6 +1,6 @@
 ---
 title: "Introducing Typedia"
-date: "2009-08-24T12:46:43+02:00"
+date: 2009-08-24T12:46:43+02:00
 source: "http://jasonsantamaria.com/articles/introducing-typedia/"
 ---
 

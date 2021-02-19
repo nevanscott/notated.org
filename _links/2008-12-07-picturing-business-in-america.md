@@ -1,6 +1,6 @@
 ---
 title: "Picturing Business in America"
-date: "2008-12-07T23:47:01+01:00"
+date: 2008-12-07T23:47:01+01:00
 source: "http://www.npg.si.edu/exh/journal/index.htm"
 ---
 

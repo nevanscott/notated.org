@@ -1,6 +1,6 @@
 ---
 title: "A boring education"
-date: "2018-12-03T10:14:59+01:00"
+date: 2018-12-03T10:14:59+01:00
 source: "http://lisahistory.net/wordpress/musings/a-boring-education/"
 ---
 

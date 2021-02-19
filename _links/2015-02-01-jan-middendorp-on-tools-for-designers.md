@@ -1,6 +1,6 @@
 ---
 title: "Jan Middendorp on tools for designers"
-date: "2015-02-01T23:39:09+01:00"
+date: 2015-02-01T23:39:09+01:00
 source: "http://letterror.com/writing/toolspace/"
 ---
 

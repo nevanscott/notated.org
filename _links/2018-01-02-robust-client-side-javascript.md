@@ -1,6 +1,6 @@
 ---
 title: "Robust Client-Side JavaScript"
-date: "2018-01-02T21:30:48+01:00"
+date: 2018-01-02T21:30:48+01:00
 source: "https://molily.de/robust-javascript/"
 ---
 

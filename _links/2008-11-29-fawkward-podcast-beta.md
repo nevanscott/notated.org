@@ -1,6 +1,6 @@
 ---
 title: "Fawkward Podcast Beta"
-date: "2008-11-29T23:16:51+01:00"
+date: 2008-11-29T23:16:51+01:00
 source: "http://fawkward.com/"
 ---
 

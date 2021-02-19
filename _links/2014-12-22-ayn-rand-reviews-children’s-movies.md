@@ -1,6 +1,6 @@
 ---
 title: "Ayn Rand Reviews Children’s Movies"
-date: "2014-12-22T02:17:25+01:00"
+date: 2014-12-22T02:17:25+01:00
 source: "http://www.newyorker.com/humor/daily-shouts/ayn-rand-reviews-childrens-movies"
 ---
 

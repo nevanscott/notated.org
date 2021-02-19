@@ -1,6 +1,6 @@
 ---
 title: "The Big Cal"
-date: "2009-02-03T03:13:56+01:00"
+date: 2009-02-03T03:13:56+01:00
 source: "http://nscott.net/thebigcal/"
 ---
 

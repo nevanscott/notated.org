@@ -1,6 +1,6 @@
 ---
 title: "America Will Run Out Of Good Questions By 2050"
-date: "2015-05-07T18:58:28+02:00"
+date: 2015-05-07T18:58:28+02:00
 source: "http://mathwithbaddrawings.com/2015/05/06/america-will-run-out-of-good-questions-by-2050/"
 ---
 

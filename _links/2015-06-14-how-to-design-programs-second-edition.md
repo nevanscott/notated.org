@@ -1,6 +1,6 @@
 ---
 title: "How to Design Programs, Second Edition"
-date: "2015-06-14T15:03:40+02:00"
+date: 2015-06-14T15:03:40+02:00
 source: "http://www.ccs.neu.edu/home/matthias/HtDP2e/part_prologue.html"
 ---
 

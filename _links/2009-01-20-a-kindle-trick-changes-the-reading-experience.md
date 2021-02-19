@@ -1,6 +1,6 @@
 ---
 title: "A Kindle trick changes the reading experience"
-date: "2009-01-20T02:22:17+01:00"
+date: 2009-01-20T02:22:17+01:00
 source: "http://goodexperience.com/2009/01/a-kindle-trick-to-cha.php"
 ---
 

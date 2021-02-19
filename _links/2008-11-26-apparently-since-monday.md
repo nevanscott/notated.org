@@ -1,6 +1,6 @@
 ---
 title: "Apparently Since Monday"
-date: "2008-11-26T23:15:24+01:00"
+date: 2008-11-26T23:15:24+01:00
 source: "http://www.youtube.com/blog?entry=0i22UDAOfj8"
 ---
 

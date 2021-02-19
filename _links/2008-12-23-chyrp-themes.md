@@ -1,6 +1,6 @@
 ---
 title: "Chyrp Themes"
-date: "2008-12-23T00:38:22+01:00"
+date: 2008-12-23T00:38:22+01:00
 source: "http://nscott.net/chyrp/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Marfa Journal"
-date: "2014-12-22T02:44:04+01:00"
+date: 2014-12-22T02:44:04+01:00
 source: "http://marfajournal.com/"
 ---
 

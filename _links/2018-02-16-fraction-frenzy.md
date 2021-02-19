@@ -1,6 +1,6 @@
 ---
 title: "Fraction Frenzy"
-date: "2018-02-16T14:37:05+01:00"
+date: 2018-02-16T14:37:05+01:00
 source: "https://mathybeagle.com/2018/02/13/fraction-frenzy/"
 ---
 

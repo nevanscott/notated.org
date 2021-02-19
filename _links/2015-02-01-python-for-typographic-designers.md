@@ -1,6 +1,6 @@
 ---
 title: "Python for (typo)graphic designers"
-date: "2015-02-01T23:21:18+01:00"
+date: 2015-02-01T23:21:18+01:00
 source: "http://pyftgd.org/"
 ---
 

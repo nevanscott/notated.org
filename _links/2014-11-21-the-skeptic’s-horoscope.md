@@ -1,6 +1,6 @@
 ---
 title: "The Skeptic’s Horoscope"
-date: "2014-11-21T14:49:46+01:00"
+date: 2014-11-21T14:49:46+01:00
 source: "http://mathwithbaddrawings.com/2014/11/12/the-skeptics-horoscope/"
 ---
 

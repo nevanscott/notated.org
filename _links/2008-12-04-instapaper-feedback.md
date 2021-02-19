@@ -1,6 +1,6 @@
 ---
 title: "Instapaper Feedback"
-date: "2008-12-04T23:24:40+01:00"
+date: 2008-12-04T23:24:40+01:00
 source: "http://blog.instapaper.com/post/62866384"
 ---
 

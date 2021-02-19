@@ -1,6 +1,6 @@
 ---
 title: "Love Makes You Creative, Sex Not So Much"
-date: "2009-10-04T19:15:01+02:00"
+date: 2009-10-04T19:15:01+02:00
 source: "http://andrewsullivan.theatlantic.com/the_daily_dish/2009/10/love-makes-you-creative-sex-not-so-much.html"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "David Pogue: Cleaning Up the Clutter Online"
-date: "2009-11-07T02:25:53+01:00"
+date: 2009-11-07T02:25:53+01:00
 source: "http://pogue.blogs.nytimes.com/2009/11/06/cleaning-up-the-clutter-online/"
 ---
 

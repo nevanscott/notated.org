@@ -1,6 +1,6 @@
 ---
 title: "The War We’d Like to Forget"
-date: "2009-07-27T06:43:11+02:00"
+date: 2009-07-27T06:43:11+02:00
 source: "http://www.nytimes.com/2009/07/27/opinion/27douthat.html"
 ---
 

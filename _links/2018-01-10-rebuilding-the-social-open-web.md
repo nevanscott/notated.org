@@ -1,6 +1,6 @@
 ---
 title: "Rebuilding the social open web"
-date: "2018-01-10T01:24:01+01:00"
+date: 2018-01-10T01:24:01+01:00
 source: "http://inessential.com/2018/01/03/2018_some_hope"
 ---
 

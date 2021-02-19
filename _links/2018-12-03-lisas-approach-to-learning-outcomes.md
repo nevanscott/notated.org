@@ -1,6 +1,6 @@
 ---
 title: "Lisa's approach to learning outcomes"
-date: "2018-12-03T09:55:12+01:00"
+date: 2018-12-03T09:55:12+01:00
 source: "http://lisahistory.net/wordpress/sabbatical2018/tagging-for-slos/"
 ---
 

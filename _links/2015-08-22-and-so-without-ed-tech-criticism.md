@@ -1,6 +1,6 @@
 ---
 title: "And So, Without Ed-Tech Criticism..."
-date: "2015-08-22T21:52:22+02:00"
+date: 2015-08-22T21:52:22+02:00
 source: "http://hackeducation.com/2015/08/15/criticism/"
 ---
 

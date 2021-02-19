@@ -1,6 +1,6 @@
 ---
 title: "Design doing"
-date: "2015-02-01T14:35:48+01:00"
+date: 2015-02-01T14:35:48+01:00
 source: "https://adactio.com/journal/1376"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Live Stills from Sleeping Beauty"
-date: "2008-12-08T23:53:09+01:00"
+date: 2008-12-08T23:53:09+01:00
 source: "http://images.google.com/images?q=source:life%20sleeping%20beauty%20grant%20cartoon"
 ---
 

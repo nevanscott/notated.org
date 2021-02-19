@@ -1,6 +1,6 @@
 ---
 title: "A Lovely Letter From Susan"
-date: "2019-06-04T17:59:24+02:00"
+date: 2019-06-04T17:59:24+02:00
 source: "https://visualgui.com/2019/06/04/a-lovely-letter-from-susan/"
 ---
 

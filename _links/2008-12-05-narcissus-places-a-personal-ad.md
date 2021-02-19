@@ -1,6 +1,6 @@
 ---
 title: "Narcissus Places a Personal Ad"
-date: "2008-12-05T23:41:14+01:00"
+date: 2008-12-05T23:41:14+01:00
 source: "http://www.mcsweeneys.net/links/monologues/14narcissusad.html"
 ---
 

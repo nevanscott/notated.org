@@ -1,6 +1,6 @@
 ---
 title: "Tell Me A Story"
-date: "2008-08-09T20:50:38+02:00"
+date: 2008-08-09T20:50:38+02:00
 source: "http://blogs.wnyc.org/radiolab/2008/07/29/tell-me-a-story/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Pulitzer Prizes Expand to Include Web-Only News Outlets"
-date: "2008-12-08T23:48:59+01:00"
+date: 2008-12-08T23:48:59+01:00
 source: "http://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1003920334"
 ---
 

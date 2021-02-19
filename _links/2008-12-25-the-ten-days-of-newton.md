@@ -1,6 +1,6 @@
 ---
 title: "The Ten Days of Newton"
-date: "2008-12-25T01:16:51+01:00"
+date: 2008-12-25T01:16:51+01:00
 source: "http://judson.blogs.nytimes.com/2008/12/23/the-ten-days-of-newton/?emc=eta1"
 ---
 

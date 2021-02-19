@@ -1,6 +1,6 @@
 ---
 title: "Automatic Kottke.org"
-date: "2009-01-27T03:08:20+01:00"
+date: 2009-01-27T03:08:20+01:00
 source: "http://www.kottke.org/00/05/im-currently-developing-a-fullyautomatic"
 ---
 

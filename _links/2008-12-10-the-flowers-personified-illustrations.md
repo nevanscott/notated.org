@@ -1,6 +1,6 @@
 ---
 title: "The Flowers Personified Illustrations"
-date: "2008-12-10T00:01:22+01:00"
+date: 2008-12-10T00:01:22+01:00
 source: "http://www.earthlypursuits.com/FlwrsPer/FPPlates.htm"
 ---
 

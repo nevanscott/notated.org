@@ -1,6 +1,6 @@
 ---
 title: "Web Publications for the Open Web Platform"
-date: "2017-10-19T22:01:37+02:00"
+date: 2017-10-19T22:01:37+02:00
 source: "https://www.w3.org/TR/pwp/"
 ---
 

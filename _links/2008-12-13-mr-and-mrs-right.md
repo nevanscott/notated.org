@@ -1,6 +1,6 @@
 ---
 title: "Mr. and Mrs. Right"
-date: "2008-12-13T00:14:28+01:00"
+date: 2008-12-13T00:14:28+01:00
 source: "http://www.vanityfair.com/magazine/2009/01/buckleys200901"
 ---
 

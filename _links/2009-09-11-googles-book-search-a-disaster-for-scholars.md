@@ -1,6 +1,6 @@
 ---
 title: "Google's Book Search: A Disaster for Scholars"
-date: "2009-09-11T18:34:58+02:00"
+date: 2009-09-11T18:34:58+02:00
 source: "http://chronicle.com/article/Googles-Book-Search-A/48245/"
 ---
 

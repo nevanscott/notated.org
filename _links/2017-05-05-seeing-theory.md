@@ -1,6 +1,6 @@
 ---
 title: "Seeing Theory"
-date: "2017-05-05T13:52:46+02:00"
+date: 2017-05-05T13:52:46+02:00
 source: "http://students.brown.edu/seeing-theory/"
 ---
 

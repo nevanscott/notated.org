@@ -1,6 +1,6 @@
 ---
 title: "Stéphanie Walter"
-date: "2019-10-09T22:07:44+02:00"
+date: 2019-10-09T22:07:44+02:00
 source: "https://stephaniewalter.design/"
 ---
 

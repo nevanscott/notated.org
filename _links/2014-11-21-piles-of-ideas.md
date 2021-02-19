@@ -1,6 +1,6 @@
 ---
 title: "Piles of Ideas"
-date: "2014-11-21T11:32:26+01:00"
+date: 2014-11-21T11:32:26+01:00
 source: "http://jasonsantamaria.com/articles/piles-of-ideas"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A Good Start"
-date: "2009-01-21T02:38:04+01:00"
+date: 2009-01-21T02:38:04+01:00
 source: "http://www.whitehouse.gov/blog/change_has_come_to_whitehouse-gov/"
 ---
 

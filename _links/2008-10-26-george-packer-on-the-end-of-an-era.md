@@ -1,6 +1,6 @@
 ---
 title: "George Packer on the End of an Era"
-date: "2008-10-26T23:04:22+01:00"
+date: 2008-10-26T23:04:22+01:00
 source: "http://www.newyorker.com/online/blogs/georgepacker/2008/10/step-back-a-mom.html"
 ---
 

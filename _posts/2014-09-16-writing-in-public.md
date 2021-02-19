@@ -1,6 +1,6 @@
 ---
 title: "Writing in Public"
-date: "2014-09-16T23:09:38+02:00"
+date: 2014-09-16T23:09:38+02:00
 ---
 
 I've been reading more and more musings about the possibly lost "old" web, mostly from people I admire such as Mandy, Jason, and Erin. Young as they are, I feel as they are the generation before me in terms of web time, so when they sputter about what's going on, for some reason it affects me.

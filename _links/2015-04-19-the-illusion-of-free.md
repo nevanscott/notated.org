@@ -1,6 +1,6 @@
 ---
 title: "The Illusion of Free"
-date: "2015-04-19T11:06:58+02:00"
+date: 2015-04-19T11:06:58+02:00
 source: "http://alistapart.com/column/the-illusion-of-free"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Reactive User Interfaces Syllabus"
-date: "2019-10-12T02:38:25+02:00"
+date: 2019-10-12T02:38:25+02:00
 source: "https://runemadsen.com/syllabi/reactive-user-interfaces/"
 ---
 

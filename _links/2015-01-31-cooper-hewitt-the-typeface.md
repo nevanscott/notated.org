@@ -1,6 +1,6 @@
 ---
 title: "Cooper Hewitt (the typeface)"
-date: "2015-01-31T22:45:00+01:00"
+date: 2015-01-31T22:45:00+01:00
 source: "http://www.cooperhewitt.org/colophon/cooper-hewitt-the-typeface-by-chester-jenkins/"
 ---
 

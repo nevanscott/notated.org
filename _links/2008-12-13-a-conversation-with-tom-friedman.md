@@ -1,6 +1,6 @@
 ---
 title: "A conversation with Tom Friedman"
-date: "2008-12-13T00:11:48+01:00"
+date: 2008-12-13T00:11:48+01:00
 source: "http://www.charlierose.com/view/interview/9779"
 ---
 

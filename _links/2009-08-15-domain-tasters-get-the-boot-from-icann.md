@@ -1,6 +1,6 @@
 ---
 title: "\"Domain Tasters\" Get the Boot from ICANN"
-date: "2009-08-15T15:19:52+02:00"
+date: 2009-08-15T15:19:52+02:00
 source: "http://arstechnica.com/web/news/2009/08/escalating-penalties-bring-domain-tasting-to-a-crashing-halt.ars"
 ---
 

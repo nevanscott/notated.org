@@ -1,6 +1,6 @@
 ---
 title: "This Is How Fast America Changes Its Mind"
-date: "2015-04-28T21:55:29+02:00"
+date: 2015-04-28T21:55:29+02:00
 source: "http://www.bloomberg.com/graphics/2015-pace-of-social-change/"
 ---
 

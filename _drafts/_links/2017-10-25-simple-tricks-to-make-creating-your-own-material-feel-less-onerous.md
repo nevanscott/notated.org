@@ -1,6 +1,6 @@
 ---
 title: "Simple tricks to make creating your own material feel less onerous"
-date: "2017-10-25T23:23:17+02:00"
+date: 2017-10-25T23:23:17+02:00
 source: "https://samjshah.com/2017/10/22/the-diy-math-curriculum-simple-tricks-to-make-creating-your-own-material-feel-less-onerous/"
 draft: true
 ---

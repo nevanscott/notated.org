@@ -1,6 +1,6 @@
 ---
 title: "People and tooling"
-date: "2018-02-05T22:41:14+01:00"
+date: 2018-02-05T22:41:14+01:00
 source: "https://www.susanjeanrobertson.com/writing/people-and-tooling/"
 ---
 

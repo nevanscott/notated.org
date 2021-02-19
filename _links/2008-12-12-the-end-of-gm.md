@@ -1,6 +1,6 @@
 ---
 title: "The end of GM?"
-date: "2008-12-12T00:05:38+01:00"
+date: 2008-12-12T00:05:38+01:00
 source: "http://www.economist.com/blogs/freeexchange/2008/12/the_end_of_gm.cfm"
 ---
 

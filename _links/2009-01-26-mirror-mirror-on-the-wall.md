@@ -1,6 +1,6 @@
 ---
 title: "Mirror, Mirror on the Wall"
-date: "2009-01-26T03:03:09+01:00"
+date: 2009-01-26T03:03:09+01:00
 source: "http://morris.blogs.nytimes.com/2009/01/25/mirror-mirror-on-the-wall/"
 ---
 

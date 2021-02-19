@@ -1,6 +1,6 @@
 ---
 title: "The Conference Manifesto"
-date: "2015-05-07T19:03:38+02:00"
+date: 2015-05-07T19:03:38+02:00
 source: "http://opinionator.blogs.nytimes.com/2015/05/04/the-conference-manifesto/"
 ---
 

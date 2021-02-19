@@ -1,6 +1,6 @@
 ---
 title: "It's Decorative Gourd Season, Motherfuckers."
-date: "2009-10-30T17:59:53+01:00"
+date: 2009-10-30T17:59:53+01:00
 source: "http://www.mcsweeneys.net/2009/10/20nissan.html"
 ---
 

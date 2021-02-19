@@ -1,6 +1,6 @@
 ---
 title: "It’s Alaska!"
-date: "2008-12-04T23:25:38+01:00"
+date: 2008-12-04T23:25:38+01:00
 source: "http://www.vimeo.com/2272182"
 ---
 

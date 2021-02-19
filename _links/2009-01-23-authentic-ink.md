@@ -1,6 +1,6 @@
 ---
 title: "Authentic Ink"
-date: "2009-01-23T02:56:26+01:00"
+date: 2009-01-23T02:56:26+01:00
 source: "http://new.myfonts.com/fonts/schickfonts/authentic-ink/"
 ---
 

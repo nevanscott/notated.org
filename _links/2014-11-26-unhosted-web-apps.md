@@ -1,6 +1,6 @@
 ---
 title: "Unhosted Web Apps"
-date: "2014-11-26T14:44:21+01:00"
+date: 2014-11-26T14:44:21+01:00
 source: "https://unhosted.org/"
 ---
 

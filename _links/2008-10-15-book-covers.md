@@ -1,6 +1,6 @@
 ---
 title: "Book Covers"
-date: "2008-10-15T22:50:53+02:00"
+date: 2008-10-15T22:50:53+02:00
 source: "http://covers.fwis.com/"
 ---
 

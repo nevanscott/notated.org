@@ -1,6 +1,6 @@
 ---
 title: "Tiny Tim on Fresh Air in 1996"
-date: "2008-10-23T23:02:47+02:00"
+date: 2008-10-23T23:02:47+02:00
 source: "http://www.npr.org/templates/story/story.php?storyId=5447267"
 ---
 

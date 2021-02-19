@@ -1,6 +1,6 @@
 ---
 title: "How Dan Meyer presents"
-date: "2017-04-20T14:23:20+02:00"
+date: 2017-04-20T14:23:20+02:00
 source: "http://blog.mrmeyer.com/2017/how-i-present/"
 ---
 

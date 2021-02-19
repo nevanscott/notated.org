@@ -1,6 +1,6 @@
 ---
 title: "Oblivious, Eh?"
-date: "2009-01-23T02:51:40+01:00"
+date: 2009-01-23T02:51:40+01:00
 source: "http://daringfireball.net/linked/2009/01/22/chen-oblivious"
 ---
 

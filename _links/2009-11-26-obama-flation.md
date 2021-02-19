@@ -1,6 +1,6 @@
 ---
 title: "Obama-flation"
-date: "2009-11-26T03:07:48+01:00"
+date: 2009-11-26T03:07:48+01:00
 source: "http://www.newyorker.com/online/blogs/georgepacker/2009/11/obamas-troubles.html"
 ---
 

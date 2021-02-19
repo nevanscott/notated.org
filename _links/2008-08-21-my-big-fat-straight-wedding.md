@@ -1,6 +1,6 @@
 ---
 title: "My Big Fat Straight Wedding"
-date: "2008-08-21T00:58:21+02:00"
+date: 2008-08-21T00:58:21+02:00
 source: "http://www.theatlantic.com/doc/200809/gay-marriage"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ignoring the Market"
-date: "2008-12-13T00:13:44+01:00"
+date: 2008-12-13T00:13:44+01:00
 source: "http://www.newyorker.com/online/blogs/jamessurowiecki/2008/12/ignoring-the-ma.html"
 ---
 

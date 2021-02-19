@@ -1,6 +1,6 @@
 ---
 title: "Designing for Disability"
-date: "2015-04-19T13:03:15+02:00"
+date: 2015-04-19T13:03:15+02:00
 source: "http://www.newyorker.com/business/currency/designing-for-disability"
 ---
 

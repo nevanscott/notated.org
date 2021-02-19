@@ -1,6 +1,6 @@
 ---
 title: "The Newsroom's Crazy-Making Campus-Rape Episode"
-date: "2015-02-01T15:42:17+01:00"
+date: 2015-02-01T15:42:17+01:00
 source: "http://www.newyorker.com/culture/cultural-comment/the-newsroom-crazy-making-campus-rape-episode"
 ---
 

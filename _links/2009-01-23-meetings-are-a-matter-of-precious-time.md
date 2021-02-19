@@ -1,6 +1,6 @@
 ---
 title: "Meetings Are a Matter of Precious Time"
-date: "2009-01-23T02:48:36+01:00"
+date: 2009-01-23T02:48:36+01:00
 source: "http://www.nytimes.com/2009/01/18/jobs/18pre.html"
 ---
 

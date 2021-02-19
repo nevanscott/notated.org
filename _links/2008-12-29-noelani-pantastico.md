@@ -1,6 +1,6 @@
 ---
 title: "Noelani Pantastico"
-date: "2008-12-29T01:21:59+01:00"
+date: 2008-12-29T01:21:59+01:00
 source: "http://www.noelanipantastico.com/Noelani_Pantastico/Welcome.html"
 ---
 

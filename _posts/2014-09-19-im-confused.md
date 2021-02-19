@@ -1,6 +1,6 @@
 ---
 title: "I'm confused."
-date: "2014-09-19T00:37:38+02:00"
+date: 2014-09-19T00:37:38+02:00
 ---
 
 I want to admit something that I wish more people would admit: I'm confused.

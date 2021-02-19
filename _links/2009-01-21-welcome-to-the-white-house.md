@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the White House"
-date: "2009-01-21T02:33:39+01:00"
+date: 2009-01-21T02:33:39+01:00
 source: "http://www.whitehouse.gov/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A Comforting Lie"
-date: "2015-04-19T12:54:05+02:00"
+date: 2015-04-19T12:54:05+02:00
 source: "http://www.dansdata.com/gz148.htm"
 ---
 

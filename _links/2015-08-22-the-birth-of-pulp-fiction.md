@@ -1,6 +1,6 @@
 ---
 title: "The Birth of Pulp Fiction"
-date: "2015-08-22T21:41:08+02:00"
+date: 2015-08-22T21:41:08+02:00
 source: "http://www.newyorker.com/magazine/2015/01/05/pulps-big-moment"
 ---
 

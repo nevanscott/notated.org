@@ -1,6 +1,6 @@
 ---
 title: "Not My Gorilla"
-date: "2008-12-12T00:09:54+01:00"
+date: 2008-12-12T00:09:54+01:00
 source: "http://daringfireball.net/linked/2008/12/07/not-my-gorilla"
 ---
 

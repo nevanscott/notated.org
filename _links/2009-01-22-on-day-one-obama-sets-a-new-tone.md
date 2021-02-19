@@ -1,6 +1,6 @@
 ---
 title: "On Day One, Obama Sets a New Tone"
-date: "2009-01-22T02:45:59+01:00"
+date: 2009-01-22T02:45:59+01:00
 source: "http://www.nytimes.com/2009/01/22/us/politics/22obama.html"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "John Kricfalusi's Review Of Meatballs"
-date: "2009-09-22T02:48:20+02:00"
+date: 2009-09-22T02:48:20+02:00
 source: "http://johnkstuff.blogspot.com/2009/09/review-of-meatballs.html"
 ---
 

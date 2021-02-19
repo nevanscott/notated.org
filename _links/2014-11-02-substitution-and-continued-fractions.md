@@ -1,6 +1,6 @@
 ---
 title: "Substitution (…and Continued Fractions)"
-date: "2014-11-02T18:37:54+01:00"
+date: 2014-11-02T18:37:54+01:00
 source: "http://samjshah.com/2014/10/23/substitution-and-continued-fractions/"
 ---
 

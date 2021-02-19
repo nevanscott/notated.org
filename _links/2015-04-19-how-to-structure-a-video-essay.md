@@ -1,6 +1,6 @@
 ---
 title: "How to Structure a Video Essay"
-date: "2015-04-19T11:04:27+02:00"
+date: 2015-04-19T11:04:27+02:00
 source: "https://www.youtube.com/watch?v=1GXv2C7vwX0"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Glad? Well, Yes"
-date: "2008-12-19T00:35:41+01:00"
+date: 2008-12-19T00:35:41+01:00
 source: "http://www.newyorker.com/online/blogs/hendrikhertzberg/2008/12/glad-well-yes.html"
 ---
 

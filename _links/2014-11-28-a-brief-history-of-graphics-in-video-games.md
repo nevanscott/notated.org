@@ -1,6 +1,6 @@
 ---
 title: "A Brief History of Graphics in Video Games"
-date: "2014-11-28T20:53:38+01:00"
+date: 2014-11-28T20:53:38+01:00
 source: "https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Lightning in Slow Motion"
-date: "2008-08-13T00:46:16+02:00"
+date: 2008-08-13T00:46:16+02:00
 source: "http://xo.typepad.com/blog/2008/08/video-slow-motion-lightning.html"
 ---
 

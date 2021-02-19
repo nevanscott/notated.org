@@ -1,6 +1,6 @@
 ---
 title: "Crying in Public"
-date: "2018-02-17T08:13:21+01:00"
+date: 2018-02-17T08:13:21+01:00
 source: "https://cryinginpublic.com/"
 ---
 

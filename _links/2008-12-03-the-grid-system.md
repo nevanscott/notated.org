@@ -1,6 +1,6 @@
 ---
 title: "The Grid System"
-date: "2008-12-03T23:21:58+01:00"
+date: 2008-12-03T23:21:58+01:00
 source: "http://www.thegridsystem.org/"
 ---
 

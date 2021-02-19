@@ -1,6 +1,6 @@
 ---
 title: "I’m Waking Up to …"
-date: "2009-01-17T01:43:35+01:00"
+date: 2009-01-17T01:43:35+01:00
 source: "http://wakingupto.wordpress.com/"
 ---
 

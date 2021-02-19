@@ -1,6 +1,6 @@
 ---
 title: "Flipped Types"
-date: "2008-12-16T00:27:33+01:00"
+date: 2008-12-16T00:27:33+01:00
 source: "http://jontangerine.com/log/2008/10/flipped-types"
 ---
 

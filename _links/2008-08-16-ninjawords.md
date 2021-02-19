@@ -1,6 +1,6 @@
 ---
 title: "Ninjawords"
-date: "2008-08-16T00:51:40+02:00"
+date: 2008-08-16T00:51:40+02:00
 source: "http://ninjawords.com/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Nobody Said CSS Is Easy"
-date: "2018-03-28T21:55:48+02:00"
+date: 2018-03-28T21:55:48+02:00
 source: "https://amberwilson.co.uk/blog/nobody-said-css-is-easy/"
 ---
 

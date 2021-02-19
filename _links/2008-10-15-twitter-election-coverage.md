@@ -1,6 +1,6 @@
 ---
 title: "Twitter Election Coverage"
-date: "2008-10-15T21:18:22+02:00"
+date: 2008-10-15T21:18:22+02:00
 source: "http://election.twitter.com/"
 ---
 

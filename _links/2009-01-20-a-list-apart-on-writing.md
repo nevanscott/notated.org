@@ -1,6 +1,6 @@
 ---
 title: "A List Apart on Writing"
-date: "2009-01-20T02:28:58+01:00"
+date: 2009-01-20T02:28:58+01:00
 source: "http://alistapart.com/topics/content/writing/"
 ---
 

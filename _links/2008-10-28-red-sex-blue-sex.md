@@ -1,6 +1,6 @@
 ---
 title: "Red Sex, Blue Sex"
-date: "2008-10-28T23:06:26+01:00"
+date: 2008-10-28T23:06:26+01:00
 source: "http://www.newyorker.com/reporting/2008/11/03/081103fa_fact_talbot"
 ---
 

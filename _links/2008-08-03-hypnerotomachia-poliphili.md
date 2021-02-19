@@ -1,6 +1,6 @@
 ---
 title: "Hypnerotomachia Poliphili"
-date: "2008-08-03T20:31:51+02:00"
+date: 2008-08-03T20:31:51+02:00
 source: "http://kottke.org/08/06/hypnerotomachia-poliphili"
 ---
 

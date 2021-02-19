@@ -1,6 +1,6 @@
 ---
 title: "Midnight Breakfast is Back"
-date: "2009-08-05T01:25:59+02:00"
+date: 2009-08-05T01:25:59+02:00
 source: "http://midnightbreakfast.com/"
 ---
 

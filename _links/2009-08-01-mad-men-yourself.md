@@ -1,6 +1,6 @@
 ---
 title: "Mad Men Yourself"
-date: "2009-08-01T03:05:22+02:00"
+date: 2009-08-01T03:05:22+02:00
 source: "http://www.amctv.com/originals/madmen/madmenyourself/"
 ---
 

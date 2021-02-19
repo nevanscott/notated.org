@@ -1,6 +1,6 @@
 ---
 title: "Gel Videos"
-date: "2008-12-29T01:22:40+01:00"
+date: 2008-12-29T01:22:40+01:00
 source: "http://gelconference.com/videos/"
 ---
 

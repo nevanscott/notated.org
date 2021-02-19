@@ -1,6 +1,6 @@
 ---
 title: "Quirky serifs aside, Georgia fonts win on Web"
-date: "2008-10-16T22:54:48+02:00"
+date: 2008-10-16T22:54:48+02:00
 source: "http://www.iht.com/articles/2006/07/09/features/dlede10.php"
 ---
 

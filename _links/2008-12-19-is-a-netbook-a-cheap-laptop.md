@@ -1,6 +1,6 @@
 ---
 title: "Is a Netbook a Cheap Laptop?"
-date: "2008-12-19T00:33:13+01:00"
+date: 2008-12-19T00:33:13+01:00
 source: "http://daringfireball.net/linked/2008/12/18/netbooks"
 ---
 

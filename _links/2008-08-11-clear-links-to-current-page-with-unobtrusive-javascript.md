@@ -1,6 +1,6 @@
 ---
 title: "Clear Links to Current Page with Unobtrusive JavaScript"
-date: "2008-08-11T21:02:18+02:00"
+date: 2008-08-11T21:02:18+02:00
 source: "http://snook.ca/archives/javascript/clear_links_to_1/"
 ---
 

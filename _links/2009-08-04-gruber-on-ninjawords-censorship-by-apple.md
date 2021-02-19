@@ -1,6 +1,6 @@
 ---
 title: "Gruber on Ninjawords' Censorship by Apple"
-date: "2009-08-04T22:20:19+02:00"
+date: 2009-08-04T22:20:19+02:00
 source: "http://daringfireball.net/2009/08/ninjawords"
 ---
 

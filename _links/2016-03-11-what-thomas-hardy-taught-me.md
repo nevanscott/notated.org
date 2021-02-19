@@ -1,6 +1,6 @@
 ---
 title: "What Thomas Hardy Taught Me"
-date: "2016-03-11T18:01:49+01:00"
+date: 2016-03-11T18:01:49+01:00
 source: "http://fredrikdeboer.com/2016/03/07/what-thomas-hardy-taught-me/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Impossible Project"
-date: "2009-01-20T02:11:09+01:00"
+date: 2009-01-20T02:11:09+01:00
 source: "http://www.the-impossible-project.com/beta/"
 ---
 

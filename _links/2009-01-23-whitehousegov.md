@@ -1,6 +1,6 @@
 ---
 title: "@whitehouse_gov"
-date: "2009-01-23T02:50:27+01:00"
+date: 2009-01-23T02:50:27+01:00
 source: "http://twitter.com/whitehouse_gov"
 ---
 

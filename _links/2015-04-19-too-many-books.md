@@ -1,6 +1,6 @@
 ---
 title: "Too Many Books?"
-date: "2015-04-19T13:15:39+02:00"
+date: 2015-04-19T13:15:39+02:00
 source: "http://www.nybooks.com/blogs/nyrblog/2015/apr/16/too-many-books/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Beyond Digital Ethics"
-date: "2018-12-03T09:50:08+01:00"
+date: 2018-12-03T09:50:08+01:00
 source: "http://calnewport.com/blog/2018/08/09/beyond-digital-ethics/"
 ---
 

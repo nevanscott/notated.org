@@ -1,6 +1,6 @@
 ---
 title: "Horror Vacui"
-date: "2014-11-20T02:21:01+01:00"
+date: 2014-11-20T02:21:01+01:00
 source: "http://ignorethecode.net/blog/2014/11/11/horror_vacui/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "upm_insert_tab"
-date: "2009-01-17T01:40:57+01:00"
+date: 2009-01-17T01:40:57+01:00
 source: "http://utterplush.com/txp-plugins/upm-insert-tab"
 ---
 

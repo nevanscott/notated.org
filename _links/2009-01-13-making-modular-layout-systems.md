@@ -1,6 +1,6 @@
 ---
 title: "Making Modular Layout Systems"
-date: "2009-01-13T01:34:00+01:00"
+date: 2009-01-13T01:34:00+01:00
 source: "http://24ways.org/2008/making-modular-layout-systems"
 ---
 

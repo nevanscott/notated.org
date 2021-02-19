@@ -1,6 +1,6 @@
 ---
 title: "A Todo List"
-date: "2017-04-20T13:13:31+02:00"
+date: 2017-04-20T13:13:31+02:00
 source: "https://inclusive-components.design/a-todo-list/"
 ---
 

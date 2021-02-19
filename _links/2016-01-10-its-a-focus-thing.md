@@ -1,6 +1,6 @@
 ---
 title: "\"It's a focus thing.\""
-date: "2016-01-10T13:47:01+01:00"
+date: 2016-01-10T13:47:01+01:00
 source: "https://twitter.com/iSmashFizzle/status/685866696788324352"
 ---
 

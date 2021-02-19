@@ -1,6 +1,6 @@
 ---
 title: "The Long Web"
-date: "2015-02-01T14:11:48+01:00"
+date: 2015-02-01T14:11:48+01:00
 source: "http://aneventapart.com/news/post/the-long-web-by-jeremy-keith-an-event-apart-video"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Gruber’s Macworld Expo 2009 Predictions"
-date: "2009-01-06T01:31:26+01:00"
+date: 2009-01-06T01:31:26+01:00
 source: "http://daringfireball.net/2009/01/macworld_expo_predictions"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Breaking Down the 10-Meter Dive"
-date: "2008-08-24T01:02:35+02:00"
+date: 2008-08-24T01:02:35+02:00
 source: "http://www.nytimes.com/interactive/2008/08/22/sports/olympics/20080822-10m-diving-graphic.html"
 ---
 

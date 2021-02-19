@@ -1,6 +1,6 @@
 ---
 title: "Midnight Breakfast Issue 7"
-date: "2015-02-02T12:16:46+01:00"
+date: 2015-02-02T12:16:46+01:00
 source: "http://midnightbreakfast.com/issue-7-letter"
 ---
 

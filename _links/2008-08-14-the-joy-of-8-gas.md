@@ -1,6 +1,6 @@
 ---
 title: "The Joy of $8 Gas"
-date: "2008-08-14T00:47:51+02:00"
+date: 2008-08-14T00:47:51+02:00
 source: "http://www.latimes.com/news/opinion/la-oe-stein11-2008jul11,0,258677.column"
 ---
 

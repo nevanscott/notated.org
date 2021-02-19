@@ -1,6 +1,6 @@
 ---
 title: "Darren Aronofsky"
-date: "2008-12-20T00:36:50+01:00"
+date: 2008-12-20T00:36:50+01:00
 source: "http://www.avclub.com/content/feature/darren_aronofsky"
 ---
 

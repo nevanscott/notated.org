@@ -1,6 +1,6 @@
 ---
 title: "B. F. Skinner: The Most Important Theorist of the 21st Century"
-date: "2018-12-03T21:37:28+01:00"
+date: 2018-12-03T21:37:28+01:00
 source: "http://hackeducation.com/2018/10/18/skinner"
 ---
 

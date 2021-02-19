@@ -1,6 +1,6 @@
 ---
 title: "The Diver’s View"
-date: "2008-08-23T01:01:45+02:00"
+date: 2008-08-23T01:01:45+02:00
 source: "http://www.nytimes.com/interactive/2008/08/21/sports/olympics/20080821_10M_DIVING.html"
 ---
 

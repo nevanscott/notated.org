@@ -1,6 +1,6 @@
 ---
 title: "“Beauty and the Brain”"
-date: "2009-01-16T01:39:29+01:00"
+date: 2009-01-16T01:39:29+01:00
 source: "http://privateear.org/2009/01/audio.3/"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Typecasting"
-date: "2009-01-17T01:44:20+01:00"
+date: 2009-01-17T01:44:20+01:00
 source: "http://www.subtraction.com/2009/01/08/typecasting"
 ---
 

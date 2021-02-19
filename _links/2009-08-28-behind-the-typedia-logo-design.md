@@ -1,6 +1,6 @@
 ---
 title: "Behind the Typedia Logo Design"
-date: "2009-08-28T07:23:15+02:00"
+date: 2009-08-28T07:23:15+02:00
 source: "http://typedia.com/blog/post/behind-the-typedia-logo-design/"
 ---
 

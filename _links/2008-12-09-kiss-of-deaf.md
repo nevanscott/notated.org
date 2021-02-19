@@ -1,6 +1,6 @@
 ---
 title: "Kiss of Deaf"
-date: "2008-12-09T23:59:14+01:00"
+date: 2008-12-09T23:59:14+01:00
 source: "http://www.reuters.com/article/newsOne/idUSTRE4B75EO20081208"
 ---
 

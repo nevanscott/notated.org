@@ -1,6 +1,6 @@
 ---
 title: "Defying Gravity"
-date: "2009-01-26T03:07:23+01:00"
+date: 2009-01-26T03:07:23+01:00
 source: "http://www.youtube.com/watch?v=mTCi1kci_Rc"
 ---
 

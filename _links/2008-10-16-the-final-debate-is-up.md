@@ -1,6 +1,6 @@
 ---
 title: "The Final Debate Is Up"
-date: "2008-10-16T22:53:01+02:00"
+date: 2008-10-16T22:53:01+02:00
 source: "http://www.hulu.com/watch/39435/msnbc-decision-08-mccain-and-obamas-final-debate"
 ---
 

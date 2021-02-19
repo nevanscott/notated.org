@@ -1,6 +1,6 @@
 ---
 title: "Replacing 1 billion-user platforms"
-date: "2018-12-01T00:04:19+01:00"
+date: 2018-12-01T00:04:19+01:00
 source: "https://www.manton.org/2018/07/13/replacing-billionuser-platforms.html"
 ---
 

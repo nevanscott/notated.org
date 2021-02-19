@@ -1,6 +1,6 @@
 ---
 title: "A Look Back at the History of CSS"
-date: "2017-10-19T22:21:41+02:00"
+date: 2017-10-19T22:21:41+02:00
 source: "https://css-tricks.com/look-back-history-css/"
 ---
 

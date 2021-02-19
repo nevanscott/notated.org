@@ -1,6 +1,6 @@
 ---
 title: "Back Issues"
-date: "2009-01-26T03:04:04+01:00"
+date: 2009-01-26T03:04:04+01:00
 source: "http://www.newyorker.com/arts/critics/atlarge/2009/01/26/090126crat_atlarge_lepore"
 ---
 

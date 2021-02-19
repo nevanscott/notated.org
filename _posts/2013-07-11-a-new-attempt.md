@@ -1,6 +1,6 @@
 ---
 title: "A New Attempt"
-date: "2013-07-11T22:33:07+02:00"
+date: 2013-07-11T22:33:07+02:00
 ---
 
 <p>I haven&#8217;t done anything remotely close to blogging in years, and truth be told, I&#8217;m pretty sure it&#8217;s because I always want to blog but am just bad at it.</p>

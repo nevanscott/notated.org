@@ -1,6 +1,6 @@
 ---
 title: "A Short Guide to Building Your Team’s Critical Thinking Skills"
-date: "2019-10-13T02:17:59+02:00"
+date: 2019-10-13T02:17:59+02:00
 source: "https://hbr.org/2019/10/a-short-guide-to-building-your-teams-critical-thinking-skills"
 ---
 

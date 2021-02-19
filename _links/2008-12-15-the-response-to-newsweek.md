@@ -1,6 +1,6 @@
 ---
 title: "The Response to Newsweek"
-date: "2008-12-15T00:23:12+01:00"
+date: 2008-12-15T00:23:12+01:00
 source: "http://andrewsullivan.theatlantic.com/the_daily_dish/2008/12/the-response-to.html"
 ---
 

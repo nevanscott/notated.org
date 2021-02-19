@@ -1,6 +1,6 @@
 ---
 title: "Is the Gender Gap Narrowing?"
-date: "2008-12-05T23:38:24+01:00"
+date: 2008-12-05T23:38:24+01:00
 source: "http://www.boston.com/business/articles/2008/12/05/losing_jobs_in_unequal_numbers/"
 ---
 

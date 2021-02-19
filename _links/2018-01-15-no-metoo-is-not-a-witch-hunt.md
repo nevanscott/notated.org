@@ -1,6 +1,6 @@
 ---
 title: "No, #MeToo Is Not a Witch Hunt"
-date: "2018-01-15T23:10:13+01:00"
+date: 2018-01-15T23:10:13+01:00
 source: "https://psmag.com/social-justice/no-metoo-is-not-a-witch-hunt"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "'Technology-Enhanced Retention' and Other Ed-Tech Interventions"
-date: "2017-04-20T15:19:40+02:00"
+date: 2017-04-20T15:19:40+02:00
 source: "http://hackeducation.com/2017/04/05/interventions"
 ---
 

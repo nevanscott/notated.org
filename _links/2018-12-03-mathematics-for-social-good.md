@@ -1,6 +1,6 @@
 ---
 title: "Mathematics for social good"
-date: "2018-12-03T09:38:19+01:00"
+date: 2018-12-03T09:38:19+01:00
 source: "https://fivetwelvethirteen.wordpress.com/2018/07/16/what-is-mathematics/"
 ---
 

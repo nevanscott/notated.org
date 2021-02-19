@@ -1,6 +1,6 @@
 ---
 title: "Who Knew Sub-pixel Anti-aliasing Would be Applicable to Analog Rendering?"
-date: "2009-08-16T05:05:00+02:00"
+date: 2009-08-16T05:05:00+02:00
 source: "http://www.willard-wigan.com/"
 ---
 

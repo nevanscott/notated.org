@@ -1,6 +1,6 @@
 ---
 title: "Lower Ed: A Series"
-date: "2016-08-31T21:37:25+02:00"
+date: 2016-08-31T21:37:25+02:00
 source: "https://tressiemc.com/2016/08/31/lower-ed-a-series/"
 ---
 

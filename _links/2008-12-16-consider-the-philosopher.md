@@ -1,6 +1,6 @@
 ---
 title: "Consider the Philosopher"
-date: "2008-12-16T00:26:39+01:00"
+date: 2008-12-16T00:26:39+01:00
 source: "http://www.nytimes.com/2008/12/14/magazine/14wwln-Wallace-t.html"
 ---
 

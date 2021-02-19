@@ -1,6 +1,6 @@
 ---
 title: "Textpattern CMS 4.0.8 released"
-date: "2009-01-23T03:01:51+01:00"
+date: 2009-01-23T03:01:51+01:00
 source: "http://textpattern.com/weblog/332/textpattern-cms-408-released"
 ---
 

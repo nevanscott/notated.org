@@ -1,6 +1,6 @@
 ---
 title: "Amber Wilson on Learning"
-date: "2018-01-15T23:12:27+01:00"
+date: 2018-01-15T23:12:27+01:00
 source: "https://amberwilson.co.uk/blog/learning/"
 ---
 

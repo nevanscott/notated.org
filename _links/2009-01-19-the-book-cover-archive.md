@@ -1,6 +1,6 @@
 ---
 title: "The Book Cover Archive"
-date: "2009-01-19T02:08:54+01:00"
+date: 2009-01-19T02:08:54+01:00
 source: "http://www.bookcoverarchive.com/"
 ---
 

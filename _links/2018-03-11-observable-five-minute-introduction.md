@@ -1,6 +1,6 @@
 ---
 title: "Observable: Five-Minute Introduction"
-date: "2018-03-11T15:17:32+01:00"
+date: 2018-03-11T15:17:32+01:00
 source: "https://beta.observablehq.com/@mbostock/five-minute-introduction"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Imagining the Tenth Dimension"
-date: "2008-08-22T01:00:00+02:00"
+date: 2008-08-22T01:00:00+02:00
 source: "http://www.tenthdimension.com/medialinks.php"
 ---
 

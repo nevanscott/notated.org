@@ -1,6 +1,6 @@
 ---
 title: "15 principles of good service design"
-date: "2018-07-15T13:26:19+02:00"
+date: 2018-07-15T13:26:19+02:00
 source: "https://blog.louisedowne.com/2018/06/14/15-principles-of-good-service-design/"
 ---
 

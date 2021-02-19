@@ -1,6 +1,6 @@
 ---
 title: "What is Good Teaching?"
-date: "2021-01-17T22:37:20+01:00"
+date: 2021-01-17T22:37:20+01:00
 source: "https://www.theatlantic.com/education/archive/2020/09/teaching-what-good-teaching/616352/"
 ---
 

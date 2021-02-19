@@ -1,6 +1,6 @@
 ---
 title: "Why Are People Waiting to Marry and Have Kids?"
-date: "2009-07-17T03:20:28+02:00"
+date: 2009-07-17T03:20:28+02:00
 source: "http://andrewsullivan.theatlantic.com/the_daily_dish/2009/07/why-are-people-waiting-to-marry-and-have-kids-ctd.html#more"
 ---
 

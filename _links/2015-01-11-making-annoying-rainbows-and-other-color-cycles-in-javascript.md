@@ -1,6 +1,6 @@
 ---
 title: "Making annoying rainbows and other color cycles in Javascript"
-date: "2015-01-11T16:18:25+01:00"
+date: 2015-01-11T16:18:25+01:00
 source: "http://krazydad.com/tutorials/makecolors.php"
 ---
 

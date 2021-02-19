@@ -1,6 +1,6 @@
 ---
 title: "Tobias Rechsteiner's GT Zirkon"
-date: "2018-12-03T10:46:24+01:00"
+date: 2018-12-03T10:46:24+01:00
 source: "http://gt-zirkon.com/"
 ---
 

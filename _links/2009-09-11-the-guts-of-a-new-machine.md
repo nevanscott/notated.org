@@ -1,6 +1,6 @@
 ---
 title: "The Guts of a New Machine"
-date: "2009-09-11T04:11:18+02:00"
+date: 2009-09-11T04:11:18+02:00
 source: "http://www.nytimes.com/2003/11/30/magazine/30IPOD.html?pagewanted=all"
 ---
 

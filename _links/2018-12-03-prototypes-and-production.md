@@ -1,6 +1,6 @@
 ---
 title: "Prototypes and production"
-date: "2018-12-03T21:39:54+01:00"
+date: 2018-12-03T21:39:54+01:00
 source: "https://adactio.com/journal/14562"
 ---
 

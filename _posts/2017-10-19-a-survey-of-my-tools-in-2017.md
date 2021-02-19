@@ -1,6 +1,6 @@
 ---
 title: "A Survey of My Tools in 2017"
-date: "2017-10-19T00:00:00+02:00"
+date: 2017-10-19T00:00:00+02:00
 ---
 
 I hate reading posts—especially "interview"-style posts—about people's "setup." We get it: you're a geek/nerd/poser with money to burn on gadgets and stuff and you like talking about them with your friends. These kind of posts strike me as the twenty-teens equivalent of 1990s-style conspicuous consumption.
