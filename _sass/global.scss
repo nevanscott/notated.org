@@ -79,6 +79,10 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+* + h2, * + h3, * + h4 {
+  margin-top: 2em;
+}
+
 blockquote {
 	position: relative;
 	margin: 1.6em 0;
@@ -109,6 +113,33 @@ blockquote blockquote {
 }
 blockquote blockquote:before, blockquote blockquote:after {
 	display: none;
+}
+
+dt {
+  font-weight: bold;
+}
+dd {
+  font-family: var(--font-sans);
+}
+
+dd + dt {
+  margin-top: 0.8rem;
+}
+
+table {
+  font-family: var(--font-sans);
+}
+th, td {
+  min-width: 12ch;
+}
+th {
+  text-align: left;
+}
+td {
+  vertical-align: top;
+}
+th + th, td + td {
+  padding-left: 1.6rem;
 }
 
 sup {
