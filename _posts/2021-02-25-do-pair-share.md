@@ -3,7 +3,7 @@ title: Do, pair, share
 date: 2021-02-25T00:32:00+02:00
 ---
 
-One of my favorite activities to use in class is a short sequence of "do, pair, share." Some teacher pals introduced me to the idea, and you can find some version of it anywhere teachers congregate, often going by the name "think, pair, share" or "write, pair, share."[^think-write-do]
+One of my favorite activities to use in class is a short sequence of "do, pair, share." Some teacher friends introduced me to the idea, and you can find some version of it anywhere teachers congregate, often going by the name "think, pair, share" or "write, pair, share."[^think-write-do]
 
 [^think-write-do]: I prefer "do" to "write" or "think". Thinking is an active process, but as a facilitator, it's difficult to observe people thinking. Asking participant to write down ideas or explain something in their own words is a great use of this technique, but I find it equally useful to ask people to draw, diagram, pseudo-code, construct... You get the idea. So the generic "do" it is.
 
@@ -23,7 +23,7 @@ Now I use it all the time. It's the first thing I reach for when I have a doubt 
   <dt>Difficulty</dt>
   <dd>Easy</dd>
   <dt>Time Required</dt>
-  <dd>10–20 min</dd>
+  <dd>10–20 minutes</dd>
 </dl>
 
 ## How to do it
