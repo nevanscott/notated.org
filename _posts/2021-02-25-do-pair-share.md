@@ -1,13 +1,15 @@
 ---
 title: Do, pair, share
-date: 2021-02-25T00:15:00+02:00
+date: 2021-02-25T00:33:00+02:00
 ---
 
-One of my absolute favorite activities to use in class is a short sequence of "do, pair, share". I was introduced to the idea by some teacher pals in New York, and you can find some version of it almost anywhere teachers congregate, typically going by the name "think-pair-share" or "write-pair-share".
+One of my favorite activities to use in class is a short sequence of "do, pair, share." Some teacher pals introduced me to the idea, and you can find some version of it anywhere teachers congregate, often going by the name "think, pair, share" or "write, pair, share."[^think-write-do]
 
-I first started using this approach in my design classes in 2015. I was skeptical at first. I'd tried a couple of things before recommended to me by teachers who were used to working with kids---like cold calling, and keeping a visible timer on the projector---and I was always left with this feeling that I was coming across as condescending to adult learners. I had the same doubt about this, and it was still uncomfortable for me to run this activity the first several times I tried it, but I could almost immediately see the benefits, and it motivated me to practice and improve the approach.
+[^think-write-do]: I prefer "do" to "write" or "think". Thinking is an active process, but as a facilitator, it's difficult to observe people thinking. Asking participant to write down ideas or explain something in their own words is a great use of this technique, but I find it equally useful to ask people to draw, diagram, pseudo-code, construct... You get the idea. So the generic "do" it is.
 
-Now I use it all the time. It's the first thing I reach for when I have a doubt in my mind about what students are understanding about something I've been showing them, or when I want to jumpstart a conversation and get everyone participating. These days I don't even just use it in class, I find it helpful in meetings, workshops, and retrospectives---it's a wonderfully flexible tool since it works with pretty much anything that participants could spend a few minutes doing independently.
+I first started using this approach in my design classes in 2015. I was skeptical at first. I had tried a couple of strategies before, recommended to me by teachers who were used to working with kids---like cold calling, and keeping a visible timer on the projector---and these seemed condescending to adult learners. I had the same doubt about "do, pair, share," and I felt uncomfortable the first several times I tried it. But---I could almost immediately see the benefits, and it motivated me to practice and improve my approach.
+
+Now I use it all the time. It's the first thing I reach for when I have a doubt about what students understand, or when I want to get everyone participating in a brainstorm. I also find it helpful in meetings, workshops, and retrospectives---it's a flexible tool. Try it with anything that participants could spend a few minutes doing independently, and get the ideas flowing.
 
 ## Summary
 
