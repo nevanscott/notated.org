@@ -1,6 +1,6 @@
 ---
 title: Do, pair, share
-date: 2021-02-25T00:33:00+02:00
+date: 2021-02-25T00:32:00+02:00
 ---
 
 One of my favorite activities to use in class is a short sequence of "do, pair, share." Some teacher pals introduced me to the idea, and you can find some version of it anywhere teachers congregate, often going by the name "think, pair, share" or "write, pair, share."[^think-write-do]
