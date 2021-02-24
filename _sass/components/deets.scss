@@ -1,0 +1,22 @@
+.deets {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.4rem 0;
+
+  dt {
+    font-family: var(--font-sans);
+    margin: 0;
+    padding-right: 1.6rem;
+    grid-column: 1;
+  }
+  dd {
+    font-family: var(--font-serif);
+    margin: 0;
+    grid-column: 2;
+  }
+
+  dd + dt, dd + dt + dd {
+    border-top: solid 1px #DDD;
+    padding-top: 0.4rem;
+  }
+}

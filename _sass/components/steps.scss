@@ -1,0 +1,32 @@
+.steps {
+  counter-reset: step;
+  font-family: var(--font-serif);
+}
+
+.steps th {
+  font-family: var(--font-sans);
+}
+
+.steps td:first-child {
+  counter-increment: step;
+  padding-left: 3rem;
+
+  &::before {
+    content: counter(step);
+    font-family: var(--font-sans);
+    float: left;
+    margin-left: -3rem;
+    height: 1.5rem;
+    width: 1.5rem;
+    border-radius: 1rem;
+    border: solid 2px;
+    text-align: center;
+    font-weight: 700;
+    font-size: smaller;
+    line-height: 1.5rem;
+  }
+}
+
+.steps td {
+  padding-top: 0.8rem;
+}

@@ -1,17 +1,23 @@
 .post {
 	margin: 0 0 4.5em 0;
 }
+.post ul, .post ol {
+	margin-left: 0;
+	padding-left: 0;
+}
 .post ul li {
   list-style: none;
-	margin-left: 1.25em;
+	margin-left: 2.2em;
 }
 .post ul li:before {
-	content: "—";
+	content: "→";
+	font-family: var(--font-sans);
+	font-weight: 500;
 	position: absolute;
-	margin-left: -1.25em;
+	margin-left: -1.4em;
 }
 .post ol li {
-	margin-left: 1.25em;
+	margin-left: 2.2em;
 	list-style: decimal;
 }
 .post.pinned {
