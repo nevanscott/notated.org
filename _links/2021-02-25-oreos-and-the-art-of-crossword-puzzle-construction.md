@@ -15,4 +15,4 @@ When you're ready for something more sobering, and haven't had your fill of cros
 >
 > As a puzzle lover, I wanted to better understand who is being referenced in crossword puzzles — an unexplored piece of this puzzle. I teamed up with The Pudding to see if the people in crossword clues and answers represent the people who could be solving them. To measure this, we looked specifically at clues and answers that include the names of real people.
 
-Excellent work.
+Love it.
