@@ -40,7 +40,7 @@ Now I use it all the time. It's the first thing I reach for when I have a doubt 
       <td>
         Give participants the short activity or question you’d like them to answer, with a time limit for how long they have to work alone.
       </td>
-      <td>
+      <td title="Suggested time">
         1–2 minutes
       </td>
     </tr>
@@ -48,7 +48,7 @@ Now I use it all the time. It's the first thing I reach for when I have a doubt 
       <td>
         As participants complete the activity, observe what they are writing or drawing to see how everyone is doing.
       </td>
-      <td>
+      <td title="Suggested time">
         2–5 minutes
       </td>
     </tr>
@@ -56,7 +56,7 @@ Now I use it all the time. It's the first thing I reach for when I have a doubt 
       <td>
         When time is up, ask participants to get together with a partner to discuss what they did and compare notes.
       </td>
-      <td>
+      <td title="Suggested time">
         1 minute
       </td>
     </tr>
@@ -64,7 +64,7 @@ Now I use it all the time. It's the first thing I reach for when I have a doubt 
       <td>
         Again, observe each pair as they discuss to check how they are doing.
       </td>
-      <td>
+      <td title="Suggested time">
         2–5 minutes
       </td>
     </tr>
@@ -72,7 +72,7 @@ Now I use it all the time. It's the first thing I reach for when I have a doubt 
       <td>
         Ask for volunteers or call on pairs to share what they came up with with the whole group.
       </td>
-      <td>
+      <td title="Suggested time">
         5–10 minutes
       </td>
     </tr>

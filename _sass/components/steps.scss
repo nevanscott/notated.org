@@ -30,3 +30,38 @@
 .steps td {
   padding-top: 0.8rem;
 }
+
+@media only screen and (max-width: 40em) {
+  /* Force table to not be like tables anymore */
+  .steps {
+    display: block;
+    tbody,
+    td,
+    th,
+    thead,
+    tr {
+      display: block;
+    }
+    /* Hide table headers (but not display: none;, for accessibility) */
+    thead th + th {
+      position: absolute;
+      top: -9999px;
+      left: -9999px;
+    }
+
+    td + td {
+      color: #888;
+      padding: 0 0 0 3rem;
+    }
+
+    /*
+  	Label the data
+  	*/
+    td[title]::before {
+      content: attr(title) ': ';
+      font-family: var(--font-sans);
+      font-size: smaller;
+      font-weight: 600;
+    }
+  }
+}
