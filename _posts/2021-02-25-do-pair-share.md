@@ -5,7 +5,7 @@ date: 2021-02-25T00:32:00+02:00
 
 One of my favorite activities to use in class is a short sequence of "do, pair, share." Some teacher friends introduced me to the idea, and you can find some version of it anywhere teachers congregate, often going by the name "think, pair, share" or "write, pair, share."[^think-write-do]
 
-[^think-write-do]: I prefer "do" to "write" or "think". Thinking is an active process, but as a facilitator, it's difficult to observe people thinking. Asking participant to write down ideas or explain something in their own words is a great use of this technique, but I find it equally useful to ask people to draw, diagram, pseudo-code, construct... You get the idea. So the generic "do" it is.
+[^think-write-do]: I prefer "do" to "write" or "think". Thinking is an active process, but as a facilitator, it's difficult to observe people thinking. Asking participants to write down ideas or explain something in their own words is a great use of this technique, but I find it equally useful to ask people to draw, diagram, pseudo-code, construct... You get the idea. So the generic "do" it is.
 
 I first started using this approach in my design classes in 2015. I was skeptical at first. I had tried a couple of strategies before, recommended to me by teachers who were used to working with kids---like cold calling, and keeping a visible timer on the projector---and these seemed condescending to adult learners. I had the same doubt about "do, pair, share," and I felt uncomfortable the first several times I tried it. But---I could almost immediately see the benefits, and it motivated me to practice and improve my approach.
 
