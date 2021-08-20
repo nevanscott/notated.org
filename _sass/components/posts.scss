@@ -1,6 +1,9 @@
 .post {
 	margin: 0 0 4.5em 0;
 }
+.post li + li {
+	margin-top: 0.25em;
+}
 .post ul, .post ol {
 	margin-left: 0;
 	padding-left: 0;
@@ -10,9 +13,10 @@
 	margin-left: 2.2em;
 }
 .post ul li:before {
+	color: #999;
 	content: "→";
 	font-family: var(--font-sans);
-	font-weight: 500;
+	font-weight: 600;
 	position: absolute;
 	margin-left: -1.4em;
 }
