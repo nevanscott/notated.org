@@ -1,5 +1,5 @@
 {% assign dates = paginator.posts | group_by_exp: "post",
-"post.date | date: '%b %-d, %Y'" %}
+"post.date | date: '%B %-d, %Y'" %}
 
 {% for date in dates %}
   <time class="date">{{ date.name }}</time>
