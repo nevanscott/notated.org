@@ -9,7 +9,7 @@
   fill: var(--color-fill-icon);
 }
 [role=banner] .site-identity a:hover svg {
-  fill: black;
+  fill: var(--color-text-contrast);
 }
 
 [role=banner] .site-title {

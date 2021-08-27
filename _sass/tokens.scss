@@ -33,3 +33,28 @@
   --color-stroke-frame: #F6F6F6;
   --color-stroke-frame-outer: #EEE;
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #101010;
+
+    --color-fill-icon: #CCC;
+    --color-fill-highlight: #222;
+    --color-fill-contrast: #333;
+    --color-fill-code: #0C0C0C;
+    --color-fill-block: #090909;
+
+    --color-text: #CCC;
+    --color-text-contrast: #EEE;
+    --color-text-soft: #999;
+    --color-text-muted: #888;
+    --color-text-subtle: #666;
+    --color-text-icon: #555;
+    --color-text-decoration: #333;
+
+    --color-stroke: #333;
+    --color-stroke-contrast: #555;
+    --color-stroke-frame: #0B0B0B;
+    --color-stroke-frame-outer: #070707;
+  }
+}

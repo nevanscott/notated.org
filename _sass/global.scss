@@ -24,7 +24,7 @@ blockquote {
 }
 
 a {
-  color: black;
+  color: var(--color-text-contrast);
 	text-decoration: none;
 }
 p a, li a {
