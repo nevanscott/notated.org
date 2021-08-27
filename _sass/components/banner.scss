@@ -6,7 +6,7 @@
 [role=banner] .site-identity a svg {
   width: 32px;
   height: 32px;
-  fill: #222;
+  fill: var(--color-fill-icon);
 }
 [role=banner] .site-identity a:hover svg {
   fill: black;
@@ -26,7 +26,7 @@
   font-weight: 500;
   line-height: 1;
 	margin: .25em 0;
-	color: #BBB;
+	color: var(--color-text-subtle);
 }
 
 [role=banner] nav {
@@ -37,14 +37,14 @@
   font-weight: 500;
 }
 [role=banner] nav a {
-	border-bottom: 2px solid #EEE;
+	border-bottom: 2px solid var(--color-stroke);
 	margin: .5em .75em;
 }
 [role=banner] nav a:hover {
-	border-color: #DDD;
+	border-color: var(--color-stroke-contrast);
 }
 [role=banner] nav a.active {
-	border-color: #000;
+	border-color: inherit;
 }
 
 @media screen and (min-width: 48em) {

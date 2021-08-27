@@ -3,10 +3,10 @@
 	font-family: 'Whitney SSm A', 'Whitney SSm B', sans-serif;
 	line-height: 2.5;
 	text-align: center;
-	color: #CCC;
+	color: var(--color-text-icon);
 	margin: 3em 0;
-	border-top: 1px solid #EEE;
-	border-bottom: 1px solid #EEE;
+	border-top: 1px solid var(--color-stroke);
+	border-bottom: 1px solid var(--color-stroke);
 }
 #footer a { color: inherit; }
 #footer p { margin: 0; }

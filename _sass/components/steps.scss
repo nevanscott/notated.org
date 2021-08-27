@@ -58,7 +58,7 @@
   	*/
     td[title]::before {
       content: attr(title) ': ';
-      color: #888;
+      color: var(--color-text-soft);
       font-family: var(--font-sans);
       font-size: smaller;
       font-weight: 600;

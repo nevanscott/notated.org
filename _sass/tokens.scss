@@ -1,11 +1,35 @@
 :root {
   --font-serif: 'Source Serif', Georgia, serif;
   --font-sans: 'Public Sans', system-ui, sans-serif;
+
   --line-height: 1.5;
   --line-height-display: 1.2;
+
   --measure: 60ch;
+
   --font-size-small: 1rem;
   --font-size-base: 1.125rem;
   --font-size-heading: 1.25rem;
   --font-size-title: 1.5rem;
+
+  --color-bg: white;
+
+  --color-fill-icon: #222;
+  --color-fill-highlight: #EEE;
+  --color-fill-contrast: #DDD;
+  --color-fill-code: #F3F3F3;
+  --color-fill-block: #F6F6F6;
+
+  --color-text: #444;
+  --color-text-contrast: black;
+  --color-text-soft: #888;
+  --color-text-muted: #999;
+  --color-text-subtle: #BBB;
+  --color-text-icon: #CCC;
+  --color-text-decoration: #DDD;
+
+  --color-stroke: #EEE;
+  --color-stroke-contrast: #DDD;
+  --color-stroke-frame: #F6F6F6;
+  --color-stroke-frame-outer: #EEE;
 }

@@ -1,7 +1,7 @@
 body {
 	box-sizing: border-box;
 	border-style: solid;
-	border-color: #EEE;
+	border-color: var(--color-stroke-frame-outer);
 	border-width: 0.5em 0;
 	margin: 0 auto;
 	min-height: 100vh;
@@ -24,14 +24,14 @@ main {
 @media screen and (min-width: 30em) {
 	body {
 		border-width: 0.5em;
-		box-shadow: inset 0 0 0 0.5em #F6F6F6;
+		box-shadow: inset 0 0 0 0.5em var(--color-stroke-frame);
 		padding: 5rem 32px;
 	}
 }
 @media screen and (min-width: 48em) {
 	body {
 		border-width: 1em;
-		box-shadow: inset 0 0 0 1em #F6F6F6;
+		box-shadow: inset 0 0 0 1em var(--color-stroke-frame);
 		padding: 7.5rem 48px;
 	}
 	main {

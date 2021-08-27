@@ -1,7 +1,7 @@
 .notice {
 	text-align: center;
 	margin: 1.6em 0;
-	background-color: #DDD;
-	color: #000;
+	background-color: var(--color-fill-contrast);
+	color: var(--color-text-contrast);
 	border-radius: 5px;
 }

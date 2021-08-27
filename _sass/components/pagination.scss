@@ -4,8 +4,7 @@
 	line-height: 2.5;
 	margin: 4.5em 0 3em;
 	padding: 0;
-	background-color: #EEE;
-	color: #444;
+	background-color: var(--color-fill-highlight);
 	border-radius: 5px;
 	list-style: none;
 	display: flex;
@@ -32,7 +31,7 @@
 	text-decoration: none;
 }
 .pages li a:hover {
-	background-color: #DDD;
+	background-color: var(--color-fill-contrast);
 }
 .pages span {
 	display: block;

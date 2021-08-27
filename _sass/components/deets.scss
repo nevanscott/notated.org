@@ -10,7 +10,7 @@
   }
 
   dd + dt {
-    border-top: solid 1px #DDD;
+    border-top: solid 1px var(--color-stroke-contrast);
     padding-top: 0.4rem;
     margin-top: 0.4rem;
   }
@@ -31,7 +31,7 @@
     }
 
     dd + dt, dd + dt + dd {
-      border-top: solid 1px #DDD;
+      border-top: solid 1px var(--color-stroke-contrast);
       padding-top: 0.4rem;
       margin: 0;
     }
