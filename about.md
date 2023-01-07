@@ -13,7 +13,7 @@ To be honest, I really just like the idea of having an almost completely pointle
 
 ### Who's writing?
 
-[Nevan](https://nevanscott.com) here. I live in Barcelona where I [teach user experience and interaction design](https://uxui.cat).
+[Nevan](https://nevanscott.com) here. I live in Barcelona where I [teach user experience and product design](https://buttonschool.com).
 
 
 ### Colophon

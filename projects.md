@@ -4,9 +4,13 @@ permalink: /projects/
 layout: page
 ---
 
+### [Button School](https://buttonschool.com)
+
+I'm currently building Button School in Barcelona. Our first course is a 12-week product design bootcamp.
+
 ### [UX/UI Barcelona](https://uxui.cat)
 
-I teach a 9-week immersive course on user experience and user interface design at the Ironhack campus in Barcelona, Spain. I keep this website as a record of each class, which includes a lot of helpful resources for anyone else teaching or learning about UX. Enjoy!
+I used to teach a 9-week immersive course on user experience and user interface design at the Ironhack campus in Barcelona, Spain. I keep this website as a record of each class, which includes a lot of helpful resources for anyone else teaching or learning about UX. Enjoy!
 
 ### [Midnight Breakfast](http://midnightbreakfast.com)
 
