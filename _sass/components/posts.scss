@@ -1,29 +1,30 @@
 .post {
-	margin: 0 0 4.5em 0;
+  margin: 0 0 4.5em 0;
 }
 .post li + li {
-	margin-top: 0.25em;
+  margin-top: 0.25em;
 }
-.post ul, .post ol {
-	margin-left: 0;
-	padding-left: 0;
+.post ul,
+.post ol {
+  margin-left: 0;
+  padding-left: 0;
 }
 .post ul li {
   list-style: none;
-	margin-left: 2.2em;
+  margin-left: 2.2em;
 }
 .post ul li:before {
-	color: var(--color-text-muted);
-	content: "→";
-	font-family: var(--font-sans);
-	font-weight: 600;
-	position: absolute;
-	margin-left: -1.4em;
+  color: var(--color-text-muted);
+  content: "→";
+  font-family: var(--font-sans);
+  font-weight: 600;
+  position: absolute;
+  margin-left: -1.4em;
 }
 .post ol li {
-	margin-left: 2.2em;
-	list-style: decimal;
+  margin-left: 2.2em;
+  list-style: decimal;
 }
 .post .title {
-	line-height: 1.4;
+  line-height: 1.4;
 }

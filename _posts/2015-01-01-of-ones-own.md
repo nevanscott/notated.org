@@ -3,7 +3,7 @@ title: "Of One's Own"
 date: 2015-01-01T18:15:35+01:00
 ---
 
-*I wrote this yesterday for the [Midnight Breakfast newsletter](http://midnightbreakfast.com/signup/).*
+_I wrote this yesterday for the [Midnight Breakfast newsletter](http://midnightbreakfast.com/signup/)._
 
 This past year, I have been simply blown away by the massive amount of quality work that [Audrey Watters](http://audreywatters.com/) has published in the neighborhood of “ed-tech”.
 
@@ -13,7 +13,7 @@ There are a lot of publications on the web dedicated to these concerns, not the 
 
 With that, I want to endorse her picks for the end of the year:
 
-> Despite the mythology of "[disruptive innovation](http://hackeducation.com/2013/05/24/disruptive-innovation/)," the most innovative initiatives in education technology aren’t coming from startups. They aren’t incubated in Silicon Valley. They don’t emerge from the tech industry. In fact, many of the ed-tech startup ideas that are developed there are at best laughable, at worst horrifying. 
+> Despite the mythology of "[disruptive innovation](http://hackeducation.com/2013/05/24/disruptive-innovation/)," the most innovative initiatives in education technology aren’t coming from startups. They aren’t incubated in Silicon Valley. They don’t emerge from the tech industry. In fact, many of the ed-tech startup ideas that are developed there are at best laughable, at worst horrifying.
 >
 > What I like instead: the [Digital Public Library of America](http://dp.la/), [Reclaim Hosting](https://reclaimhosting.com/), [A Domain of One’s Own](http://umw.domains/), [P2PU](http://p2pu.org/), and [Lumen Learning](http://lumenlearning.com/), for example.
 
@@ -25,7 +25,7 @@ We’ve had 20 years now with the web as an ever more present part of our lives,
 
 But there’s also always been another strand in the growth of the web, an independent spirit fighting to build new things and bring them to new audiences, giving voice to people who might not have otherwise had a platform. My favorite early experiments were sites like [Fray.com](https://web.archive.org/web/20040225041529/http://fray.com/) and [Suck.com](http://www.suck.com/daily/archive/all.html), and later [The Morning News](http://www.themorningnews.org/), still later [The Bygone Bureau](http://bygonebureau.com/). And there were the independent personal sites and blogs, like Jason Kottke’s [kottke.org](http://kottke.org/) and later Mandy Brown’s [A Working Library](http://aworkinglibrary.com/). This part of the web feels to me, to this very day, like the “real” web – and I know how snobby or immature that must sound. But that part of the web is important not for its technology, but for its humanity. It’s the web that does like to share, but likes to have control over how things are shared, for things to be shared with individuals and real human beings, not centralized, owned, and sold to the highest bidder by 20-somthings in Silicon Valley. A lot of smart people have worked to build that part of the web, and I honestly still think it is strong, even if there are changes still needed. That spirit is important.
 
-And I think it’s *that* spirit that Audrey Watters thinks is needed to have great voice in education, and I think it’s the spirit that Midnight Breakfast and so many other publications are trying to bring to the literary community.
+And I think it’s _that_ spirit that Audrey Watters thinks is needed to have great voice in education, and I think it’s the spirit that Midnight Breakfast and so many other publications are trying to bring to the literary community.
 
 I’ll let her take it from here:
 

@@ -1,5 +1,5 @@
 ---
-title: "\"American Homeowner\""
+title: '"American Homeowner"'
 date: 2014-11-25T22:12:01+01:00
 ---
 

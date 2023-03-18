@@ -57,7 +57,7 @@
   	Label the data
   	*/
     td[title]::before {
-      content: attr(title) ': ';
+      content: attr(title) ": ";
       color: var(--color-text-soft);
       font-family: var(--font-sans);
       font-size: smaller;

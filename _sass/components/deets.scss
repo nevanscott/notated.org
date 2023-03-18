@@ -30,7 +30,8 @@
       grid-column: 2;
     }
 
-    dd + dt, dd + dt + dd {
+    dd + dt,
+    dd + dt + dd {
       border-top: solid 1px var(--color-stroke-contrast);
       padding-top: 0.4rem;
       margin: 0;

@@ -1,68 +1,68 @@
-[role=banner] {
+[role="banner"] {
   font-family: var(--font-sans, sans-serif);
-	text-align: center;
+  text-align: center;
 }
 
-[role=banner] .site-identity a svg {
+[role="banner"] .site-identity a svg {
   width: 32px;
   height: 32px;
   fill: var(--color-fill-icon);
 }
-[role=banner] .site-identity a:hover svg {
+[role="banner"] .site-identity a:hover svg {
   fill: var(--color-text-contrast);
 }
 
-[role=banner] .site-title {
+[role="banner"] .site-title {
   font-family: var(--font-serif, serif);
   display: block;
-	font-size: var(--font-size-title);
-  font-weight: 500;
-	line-height: 1;
-	margin: 0;
-}
-[role=banner] .site-tagline {
-  display: block;
-	font-size: var(--font-size-small);
+  font-size: var(--font-size-title);
   font-weight: 500;
   line-height: 1;
-	margin: .25em 0;
-	color: var(--color-text-subtle);
+  margin: 0;
+}
+[role="banner"] .site-tagline {
+  display: block;
+  font-size: var(--font-size-small);
+  font-weight: 500;
+  line-height: 1;
+  margin: 0.25em 0;
+  color: var(--color-text-subtle);
 }
 
-[role=banner] nav {
+[role="banner"] nav {
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: var(--font-size-small);
   font-weight: 500;
 }
-[role=banner] nav a {
-	border-bottom: 2px solid var(--color-stroke);
-	margin: .5em .75em;
+[role="banner"] nav a {
+  border-bottom: 2px solid var(--color-stroke);
+  margin: 0.5em 0.75em;
 }
-[role=banner] nav a:hover {
-	border-color: var(--color-stroke-contrast);
+[role="banner"] nav a:hover {
+  border-color: var(--color-stroke-contrast);
 }
-[role=banner] nav a.active {
-	border-color: inherit;
+[role="banner"] nav a.active {
+  border-color: inherit;
 }
 
 @media screen and (min-width: 48em) {
-  [role=banner] {
+  [role="banner"] {
     display: flex;
     justify-content: space-between;
     align-items: center;
     text-align: left;
   }
-  [role=banner] .site-identity {
+  [role="banner"] .site-identity {
     display: flex;
     align-items: center;
   }
-  [role=banner] .site-identity a svg {
+  [role="banner"] .site-identity a svg {
     width: 64px;
     height: 64px;
   }
-  [role=banner] .site-name {
+  [role="banner"] .site-name {
     margin-left: 32px;
   }
 }

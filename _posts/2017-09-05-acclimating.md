@@ -5,9 +5,7 @@ date: 2017-09-05T02:30:00+02:00
 
 A few months ago, I left my job and moved to Berlin. This has brought a lot of changes in a short period of time. I have a few advantages: I studied German in school, my girlfriend moved here with me, and my siblings and parents are already used to me living far away. So far, I'm learning a lot, but it's definitely taking some time to adjust.
 
-
-Können wir vielleicht auf Deutsch reden?
-----------------------------------------
+## Können wir vielleicht auf Deutsch reden?
 
 Honestly, the language barrier has only been an issue in my head. Everyone at my office speaks English (many better than I do) and I rarely find myself in situations where I absolutely must use German.
 
@@ -17,9 +15,7 @@ I've grown the most in my ability to listen to other conversations and grasp mor
 
 Still, I hope to work on my confidence in speaking German over the next few months, and to use it more at the office. This will require overcoming the embarrassment of sounding like an idiot in a language I barely know.
 
-
-Back to Work
-------------
+## Back to Work
 
 Getting back to work after teaching for the past few years has been the most challenging and interesting transition with this move. Don't get me wrong—teaching is a significant amount of work with more than enough rewards and challenges for a lifetime. But when I started teaching, I always knew I would have to return to professional practice, to keep my skills sharp and to stay in touch with the day to day challenges of designing and building digital stuffs.
 
@@ -35,9 +31,7 @@ In my experience, front-end web development has not always been a very hospitabl
 
 This has changed since I last worked with JavaScript. At the suggestion of a colleague, I tried out a testing framework called Jest. Of all the JavaScript things that I've seen set up for the project I am working on, the testing framework was by far the simplest. I ran into some initial hiccups trying to figure out this particular framework, but it took only about an hour to get a couple of basic things working. And from there, it's been a pleasure to work with Jest. I'm delighted to say that I am looking forward to writing more tests and learning more about effective ways to use them in projects and with teams. I never thought I would write that sentence.
 
-
-Homesick
---------
+## Homesick
 
 There's a lot to like about Berlin. Everything operates at a much more relaxed pace here, maybe even more so than in Austin where I grew up. I have a balance between work and life that I've never enjoyed in my entire career. I don't check my email after work or on weekends. Public transit here is great, there's plenty of good food, and because it's still new there are tons of places to explore.
 

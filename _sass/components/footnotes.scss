@@ -1,31 +1,32 @@
 .footnotes {
-	font-family: var(--font-sans, sans-serif);
-	font-size: var(--font-size-small);
+  font-family: var(--font-sans, sans-serif);
+  font-size: var(--font-size-small);
 }
 .footnotes::before {
-	content: '';
-	display: block;
-	border-top: 1px solid var(--color-stroke-contrast);
-	width: 8em;
-	margin: 1.6em 0 0;
+  content: "";
+  display: block;
+  border-top: 1px solid var(--color-stroke-contrast);
+  width: 8em;
+  margin: 1.6em 0 0;
 }
 .footnotes ol {
-	list-style: decimal;
-	margin: 0;
-	padding: 0;
+  list-style: decimal;
+  margin: 0;
+  padding: 0;
 }
 .footnotes ol li {
-	margin-left: 1.6em;
+  margin-left: 1.6em;
 }
 .footnotes ol li p {
-	margin: .8em 0;
+  margin: 0.8em 0;
 }
-a[rev=footnote], .post li a[rev=footnote] {
-	border: none;
-	text-decoration: none;
-	font-size: var(--font-size-small);
-	position: relative;
-	margin-left: .5em;
-	color: var(--color-text-icon);
-	font-weight: bold;
+a[rev="footnote"],
+.post li a[rev="footnote"] {
+  border: none;
+  text-decoration: none;
+  font-size: var(--font-size-small);
+  position: relative;
+  margin-left: 0.5em;
+  color: var(--color-text-icon);
+  font-weight: bold;
 }

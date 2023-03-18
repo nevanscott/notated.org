@@ -1,6 +1,6 @@
 :root {
-  --font-serif: 'Source Serif', Georgia, serif;
-  --font-sans: 'Public Sans', system-ui, sans-serif;
+  --font-serif: "Source Serif", Georgia, serif;
+  --font-sans: "Public Sans", system-ui, sans-serif;
 
   --line-height: 1.5;
   --line-height-display: 1.2;
@@ -15,37 +15,37 @@
   --color-bg: white;
 
   --color-fill-icon: #222;
-  --color-fill-highlight: #EEE;
-  --color-fill-contrast: #DDD;
-  --color-fill-code: #F3F3F3;
-  --color-fill-block: #F6F6F6;
+  --color-fill-highlight: #eee;
+  --color-fill-contrast: #ddd;
+  --color-fill-code: #f3f3f3;
+  --color-fill-block: #f6f6f6;
 
   --color-text: #444;
   --color-text-contrast: black;
   --color-text-soft: #888;
   --color-text-muted: #999;
-  --color-text-subtle: #BBB;
-  --color-text-icon: #CCC;
-  --color-text-decoration: #DDD;
+  --color-text-subtle: #bbb;
+  --color-text-icon: #ccc;
+  --color-text-decoration: #ddd;
 
-  --color-stroke: #EEE;
-  --color-stroke-contrast: #DDD;
-  --color-stroke-frame: #F6F6F6;
-  --color-stroke-frame-outer: #EEE;
+  --color-stroke: #eee;
+  --color-stroke-contrast: #ddd;
+  --color-stroke-frame: #f6f6f6;
+  --color-stroke-frame-outer: #eee;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --color-bg: #101010;
 
-    --color-fill-icon: #CCC;
+    --color-fill-icon: #ccc;
     --color-fill-highlight: #222;
     --color-fill-contrast: #333;
-    --color-fill-code: #0C0C0C;
+    --color-fill-code: #0c0c0c;
     --color-fill-block: #090909;
 
-    --color-text: #CCC;
-    --color-text-contrast: #EEE;
+    --color-text: #ccc;
+    --color-text-contrast: #eee;
     --color-text-soft: #999;
     --color-text-muted: #888;
     --color-text-subtle: #666;
@@ -54,7 +54,7 @@
 
     --color-stroke: #333;
     --color-stroke-contrast: #555;
-    --color-stroke-frame: #0B0B0B;
+    --color-stroke-frame: #0b0b0b;
     --color-stroke-frame-outer: #070707;
   }
 }
