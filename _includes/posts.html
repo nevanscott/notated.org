@@ -9,10 +9,10 @@
       <h2 class="title">
         <a href="{{ post.source | default:post.url }}">
           {{- post.title | smartify | strip -}}
-        </a>
-        {% if post.source %}
+        </a>{{- "&nbsp;" -}}
+        {%- if post.source -%}
           <small><a href="{{ post.url }}">¶</a></small>
-        {% endif %}
+        {%- endif %}
       </h2>
       {{ post.content | markdownify }}
     </article>
