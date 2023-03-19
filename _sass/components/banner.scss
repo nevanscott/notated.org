@@ -1,6 +1,5 @@
 [role="banner"] {
   font-family: var(--font-sans, sans-serif);
-  text-align: center;
 }
 
 [role="banner"] .site-identity a svg {
@@ -31,14 +30,13 @@
 
 [role="banner"] nav {
   display: flex;
-  justify-content: center;
-  align-items: center;
   font-size: var(--font-size-small);
   font-weight: 500;
+  gap: 0.75em;
+  padding: 0.5em 00;
 }
 [role="banner"] nav a {
   border-bottom: 2px solid var(--color-stroke);
-  margin: 0.5em 0.75em;
 }
 [role="banner"] nav a:hover {
   border-color: var(--color-stroke-contrast);
@@ -47,16 +45,29 @@
   border-color: inherit;
 }
 
+@media screen and (min-width: 30em) {
+  [role="banner"] .site-identity {
+    display: flex;
+    align-items: center;
+  }
+  [role="banner"] .site-identity a svg {
+    width: 48px;
+    height: 48px;
+  }
+  [role="banner"] .site-name {
+    margin-left: 16px;
+  }
+  [role="banner"] nav {
+    gap: 1.5em;
+    margin-left: 64px;
+  }
+}
 @media screen and (min-width: 48em) {
   [role="banner"] {
     display: flex;
     justify-content: space-between;
     align-items: center;
     text-align: left;
-  }
-  [role="banner"] .site-identity {
-    display: flex;
-    align-items: center;
   }
   [role="banner"] .site-identity a svg {
     width: 64px;
