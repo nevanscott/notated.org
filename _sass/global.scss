@@ -3,7 +3,7 @@ body {
   color: var(--color-text);
   font-family: var(--font-serif);
   font-feature-settings: "ss02";
-  font-optical-sizing: none;
+  font-optical-sizing: auto;
   font-size: var(--font-size-base);
   line-height: var(--line-height, 1.5);
   -webkit-font-smoothing: antialiased;
