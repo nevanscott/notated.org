@@ -37,6 +37,7 @@
   padding: 0.5em 00;
 }
 [role="banner"] nav a {
+  display: block;
   color: var(--color-text);
   position: relative;
 }
@@ -47,16 +48,17 @@
   color: var(--color-text-contrast);
 }
 [role="banner"] nav a::after {
-  --radius: 6px;
+  --radius: 3px;
   content: "";
   display: block;
   position: absolute;
   width: calc(var(--radius) * 2);
-  height: var(--radius);
+  height: calc(var(--radius) * 2);
   margin-left: calc(var(--radius) * -1);
+  margin-top: 0.25em;
   left: 50%;
   background-color: var(--color-stroke);
-  border-radius: 0 0 var(--radius) var(--radius);
+  border-radius: var(--radius);
 }
 [role="banner"] nav a:hover::after {
   background-color: var(--color-stroke-contrast);
