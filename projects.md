@@ -8,6 +8,10 @@ layout: page
 
 I'm currently building Button School in Barcelona. Our first course is a 12-week product design bootcamp.
 
+### [Teaching Playbook](https://teaching.notated.org)
+
+I've learned a lot of strategies and techniques for teaching and supporting other teachers over the years. This is where I cobble together what I've learned from others to pay it forward.
+
 ### [UX/UI Barcelona](https://uxui.cat)
 
 I used to teach a 9-week immersive course on user experience and user interface design at the Ironhack campus in Barcelona, Spain. I keep this website as a record of each class, which includes a lot of helpful resources for anyone else teaching or learning about UX. Enjoy!
