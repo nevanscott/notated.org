@@ -68,10 +68,9 @@ PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
-  jekyll (~> 3.0)
-  jekyll-paginate-v2 (~> 3.0)
-  kramdown-parser-gfm (~> 1.1)
-  webrick (~> 1.7)
+  jekyll (~> 3)
+  jekyll-paginate-v2 (~> 3)
+  kramdown-parser-gfm (~> 1)
 
 BUNDLED WITH
    2.5.20
