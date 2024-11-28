@@ -1,5 +1,5 @@
 ---
-title: "So, it has been about a year since I decided to leave Sarah Lawrence..."
+title: Aftermath
 date: 2009-11-09T03:28:08+01:00
 ---
 
