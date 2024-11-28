@@ -1,20 +1,17 @@
 ---
 layout: default
 ---
-<article class="post {{ page.collection }}">
 
+<article class="post {{ page.collection }}">
   {% if page.source %}
-    <h1>
-      <a href="{{ page.source }}">
-        {{- page.title | smartify -}}
-      </a>
-    </h1>
+  <h1>
+    <a href="{{ page.source }}"> {{- page.title | smartify -}} </a>
+  </h1>
   {% else %}
-    <h1>{{ page.title | smartify }}</h1>
+  <h1>{{ page.title | smartify }}</h1>
   {% endif %}
 
   <time class="date">{{ page.date | date: '%B %-d, %Y' }}</time>
 
   {{ content }}
-
 </article>
