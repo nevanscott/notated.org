@@ -42,6 +42,20 @@
     src: url("/fonts/Public-Sans-Italic-VF.ttf") format("woff2-variations");
   }
   @font-face {
+    font-family: "Gestura Text";
+    font-weight: 100 900;
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/Gestura-Text-Roman-VF.woff2") format("woff2");
+  }
+  @font-face {
+    font-family: "Gestura Text";
+    font-weight: 100 900;
+    font-display: swap;
+    font-style: italic;
+    src: url("/fonts/Gestura-Text-Italic-VF.woff2") format("woff2");
+  }
+  @font-face {
     font-family: "Inter";
     font-weight: 100 900;
     font-display: swap;

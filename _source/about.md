@@ -16,4 +16,4 @@ To be honest, I really just like the idea of having an almost completely pointle
 
 ### Colophon
 
-This site is typeset in [Source Serif](https://adobe-fonts.github.io/source-serif/) and [Inter](https://rsms.me/inter/), and built with [Jekyll](https://jekyllrb.com) served from [Netlify](https://www.netlify.com). The circled "n" mark is set in [Piazzolla](https://piazzolla.huertatipografica.com) designed by Juan Pablo del Peral.
+This site is typeset in [Gestura Text](https://socio-type.com/demo/gestura-text) and [Inter](https://rsms.me/inter/), and built with [Jekyll](https://jekyllrb.com) served from [Netlify](https://www.netlify.com). The circled "n" mark is set in [Piazzolla](https://piazzolla.huertatipografica.com) designed by Juan Pablo del Peral.
