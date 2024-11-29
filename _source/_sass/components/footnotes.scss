@@ -17,6 +17,10 @@
 }
 .footnotes ol li {
   margin-left: 1.6em;
+  padding: 0;
+}
+.footnotes ol li::before {
+  display: none;
 }
 .footnotes ol li p {
   margin: 0.8em 0;
