@@ -26,7 +26,8 @@
   margin: 0.8em 0;
 }
 a[rev="footnote"],
-.post li a[rev="footnote"] {
+.post li a[rev="footnote"],
+a.reversefootnote {
   border: none;
   text-decoration: none;
   font-size: var(--font-size-small);
@@ -34,4 +35,7 @@ a[rev="footnote"],
   margin-left: 0.5em;
   color: var(--color-text-icon);
   font-weight: bold;
+  &:hover {
+    color: var(--color-text-subtle);
+  }
 }
