@@ -21,10 +21,38 @@
   position: absolute;
   margin-left: -1.4em;
 }
-.post ol li {
-  margin-left: 2.2em;
-  list-style: decimal;
+
+.post ol {
+  counter-reset: step;
+  list-style: none;
+  margin-bottom: 2.5rem;
 }
+.post ol > li {
+  counter-increment: step;
+  padding-left: 3rem;
+  margin: 0 0 0.75rem;
+
+  &::before {
+    content: counter(step);
+    color: var(--color-text-soft);
+    font-family: var(--font-sans);
+    float: left;
+    margin-left: -2.5rem;
+    height: 1.25rem;
+    width: 1.25rem;
+    border-radius: 1rem;
+    border: solid 2px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+  }
+}
+// .post ol li {
+//   margin-left: 2.2em;
+//   list-style: decimal;
+// }
+
 .post .title {
   line-height: 1.4;
 }
