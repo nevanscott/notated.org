@@ -1,11 +1,11 @@
 ---
 title: Escape to Now
 date: 2024-12-30T18:29:00.000Z
-source: https://www.vulture.com/article/is-dungeons-and-dragons-fun-game-popularity-misunderstood.html
 ---
+
 Since I stopped teaching full time a couple of years ago, I've become an unabashed fan of the work coming out of [Dropout](https://www.dropout.tv). These days I watch most of their game shows, as well as their brilliant productions of standup comedy that often verges on performance art. However, I found my way in through their series of live and recorded games of Dungeons & Dragons called Dimension 20, in particular the Fantasy High series.
 
-Now, Andrea Long Chu has written a fun deep dive into the history and world of the game, where she reflects on her observations as a now practicing dungeon master, which is the person who facilitates these games:
+Now, Andrea Long Chu has written [a fun deep dive into the history and world of the game](https://www.vulture.com/article/is-dungeons-and-dragons-fun-game-popularity-misunderstood.html), where she reflects on her observations as a now practicing dungeon master, which is the person who facilitates these games:
 
 > But conventional wisdom holds that talking about one’s campaign is about as interesting as talking about one’s dreams. Most *D&D* campaigns are private affairs that leave few traces outside of scribbled notes and fond memories. No description can capture the rush of the game or the general anarchy wrought by the whims of the dice and the spontaneity of the players. For this reason, it is difficult to develop a proper *aesthetic* account of *D&D*. It is less like reviewing a book and more like reviewing a book club.
 
