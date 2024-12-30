@@ -6,7 +6,7 @@ media_folder: "assets/uploads"
 collections:
   - name: "links"
     label: "Links"
-    folder: "_links/"
+    folder: "_source/_links/"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
@@ -23,7 +23,7 @@ collections:
         pattern: \d{4}
   - name: "blog"
     label: "Blog"
-    folder: "_posts/"
+    folder: "_source/_posts/"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
