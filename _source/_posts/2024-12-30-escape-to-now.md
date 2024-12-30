@@ -1,6 +1,6 @@
 ---
 title: Escape to Now
-date: 2024-12-30T18:29:00.000Z
+date: 2024-12-30 18:29
 ---
 
 Since I stopped teaching full time a couple of years ago, I've become an unabashed fan of the work coming out of [Dropout](https://www.dropout.tv). These days I watch most of their game shows, as well as their brilliant productions of standup comedy that often verges on performance art. However, I found my way in through their series of live and recorded games of Dungeons & Dragons called Dimension 20, in particular the Fantasy High series.
