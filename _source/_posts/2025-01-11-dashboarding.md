@@ -28,7 +28,7 @@ Based on this experience, I have a few observations:
 - In this case, I knew what I was trying to do, could help break things down into smaller tasks, and critically analyze the suggestions the LLM made for me.
 - In addition to saving me time writing boilerplate code, this process filled in a gap between my higher-level understanding of what needed to be built, and concrete information I didn't have at my fingertips about how these particular libraries worked.
 - When something wasn't working as I expected it to, I found I could give an explanation of what had gone wrong to the LLM, and it was capable of making a good guess about where the problem may have been with suggestions for possible solutions.
-- This particular LLM seems to have been trained on examples, and given explicit instruction to include a fairly significant amount of inline comments in the code it generates. I found this super helpful as I assessed its suggestions, and also to be better-documented than what I would have likely created for a prototype like this on my own.
+- This particular LLM seems to have been trained on examples containing, and given explicit instruction to include a fairly significant amount of inline comments in the code it generates. I found this super helpful as I assessed its suggestions, and also to be better-documented than what I would have likely created for a prototype like this on my own.
 
 I think after this experience I can see more clearly why developers seem to be the most optimistic about the possibilities of LLM technology. That said, I am even more convinced that prompting an LLM to do something that you don't know how to do yourself would likely result in a maddeningly confusing outcome with much less chance of success.
 
