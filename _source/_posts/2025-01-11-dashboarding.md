@@ -6,7 +6,7 @@ One of my goals for this year is to get a better handle on the financial picture
 
 I have transaction records for course sales in Airtable and Stripe, as well as bank records, all of which I can download as CSV documents.
 
-At first I tried messing around with the data as spreadsheets, which meant trying to piece back together how pivot tables work, and lot of trial and error with the chart generation settings in Sheets and Numbers. I was able to get some workable charts breaking down revenue by month, for example, but I could really only reasonably do this for one source of records at a time, and started running up against a wall when I wanted to combine data sources and do more advanced filtering.
+At first I tried messing around with the data as spreadsheets, which meant trying to piece back together how pivot tables work, and lots of trial and error with the chart generation settings in Sheets and Numbers. I was able to get some workable charts breaking down revenue by month, for example, but I could really only reasonably do this for one source of records at a time, and started running up against a wall when I wanted to combine data sources and do more advanced filtering.
 
 I had another problem: how many steps was I going to have to either write down or remember to perform in order to get from the raw data to a usable visualization?
 
