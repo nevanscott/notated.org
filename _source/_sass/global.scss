@@ -51,11 +51,11 @@ li a {
   text-decoration: underline;
   text-decoration-thickness: 2px;
   text-underline-offset: 3px;
-  text-decoration-color: var(--color-stroke);
+  text-decoration-color: var(--color-stroke-link);
 }
 p a:hover,
 li a:hover {
-  text-decoration-color: var(--color-stroke-contrast);
+  text-decoration-color: var(--color-stroke-link-hover);
 }
 
 em,
@@ -122,10 +122,10 @@ h4,
 h5,
 h6 {
   a {
-    border-bottom: 2px solid var(--color-stroke);
+    border-bottom: 2px solid var(--color-stroke-link);
   }
   a:hover {
-    border-color: var(--color-stroke-contrast);
+    border-color: var(--color-stroke-link-hover);
   }
 }
 
