@@ -4,7 +4,7 @@ date: 2025-04-11T20:31:00+02:00
 ---
 I’ve taught UX or some variant of it for a long time, over a decade.
 
-And sometimes students would ask about if I imagine myself teaching UX forever
+And sometimes students would ask about if I imagine myself teaching UX forever.
 
 And sometimes I would joke with them. Well,
 
