@@ -1,4 +1,4 @@
-{% assign sections = paginator.posts | group_by_exp: "post", "post.date | date:
+{% assign sections = site.posts | group_by_exp: "post", "post.date | date:
 '%Y'" %} {% for section in sections %}
 <h3 id="{{ section.name | slugify }}-ref">{{ section.name }}</h3>
 <ul>
