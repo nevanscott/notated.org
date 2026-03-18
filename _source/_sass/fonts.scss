@@ -56,21 +56,19 @@
     src: url("/fonts/Gestura-Text-Italic-VF.woff2") format("woff2");
   }
   @font-face {
-    font-family: "Inter";
-    font-weight: 100 900;
+    font-family: "Schibsted Grotesk";
+    font-weight: 400 900;
     font-display: swap;
     font-style: normal;
-    font-named-instance: "Regular";
-    font-feature-settings: "ss02";
-    src: url("/fonts/Inter-roman.var.woff2?v=3.19") format("woff2");
+    src: url("/fonts/SchibstedGrotesk[wght].woff2") format("woff2-variations"),
+      url("/fonts/SchibstedGrotesk[wght].woff2") format("woff2");
   }
   @font-face {
-    font-family: "Inter";
-    font-weight: 100 900;
+    font-family: "Schibsted Grotesk";
+    font-weight: 400 900;
     font-display: swap;
     font-style: italic;
-    font-named-instance: "Italic";
-    font-feature-settings: "ss02";
-    src: url("/fonts/Inter-italic.var.woff2?v=3.19") format("woff2");
+    src: url("/fonts/SchibstedGrotesk-Italic[wght].woff2") format("woff2-variations"),
+      url("/fonts/SchibstedGrotesk-Italic[wght].woff2") format("woff2");
   }
 }
