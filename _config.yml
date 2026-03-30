@@ -13,6 +13,9 @@ pagination:
 plugins:
   - jekyll-paginate-v2
 
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
+
 collections:
   links:
     output: true
